@@ -5,6 +5,8 @@ sala4:"http://diskokosmiko.mx/jml/peliculas-25581" name:"DiskoKosmiko FILMS";
 
 
 
+Movies:"http://diskokosmiko.mx/pupurb/cine-s-27871" name:"Letra S";
+Movies:"Temp 1" src="http://kbagi.com/emilezoll/jdet-1-576713/list,1,1";
 
 
 alfa:"http://diskokosmiko.mx/pupurb/cine-s-27871" name:"Letra S";
