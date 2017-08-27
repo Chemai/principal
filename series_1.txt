@@ -1,3 +1,12 @@
+
+music:"http://kbagi.com/emilezoll/pelismusic-577897" name:"Musicales";
+sala3:"http://diskokosmiko.mx/maria-santos-lopez/peliculas-32997" name:"DiskoKosmiko Disney";
+sala4:"http://diskokosmiko.mx/jml/peliculas-25581" name:"DiskoKosmiko FILMS";
+
+
+
+
+
 alfa:"http://diskokosmiko.mx/pupurb/cine-s-27871" name:"Letra S";
 alfa:"http://diskokosmiko.mx/pupurb/cine-t-27872" name:"Letra T";
 alfa:"http://diskokosmiko.mx/pupurb/cine-u-27873" name:"Letra U";
@@ -7,15 +16,6 @@ alfa:"http://diskokosmiko.mx/pupurb/cine-x-27876" name:"Letra X";
 alfa:"http://diskokosmiko.mx/pupurb/cine-y-27877" name:"Letra Y";
 alfa:"http://diskokosmiko.mx/pupurb/cine-z-27878" name:"Letra Z";
 alfa:"http://diskokosmiko.mx/pupurb/cine-3d-27882" name:"3D";
-
-
-salon:"http://kbagi.com/emilezoll/pelismusic-577897" name:"musicales";
-sala3:"http://diskokosmiko.mx/maria-santos-lopez/peliculas-32997" name:"sala 3";
-sala4:"http://diskokosmiko.mx/jml/peliculas-25581" name:"sala 4";
-
-
-
-
 
 
 
