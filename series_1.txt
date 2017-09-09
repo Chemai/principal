@@ -16,6 +16,12 @@ after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
 visit:"V los visitantes" src="http://kbagi.com/juanitronic/v-los-visitantes-2009-570365";
 
 
+
+beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
+
+BAnt:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
+
+
 Music:"Películas Musicales" src="http://kbagi.com/emilezoll/pelismusic-577897/list,1,1";
 
 
