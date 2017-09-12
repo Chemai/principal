@@ -32,9 +32,9 @@ erotic:"Angel " src="http://kbagi.com/alirao47/angel-wicky-546844/list,1,1";
 erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Mady " src="http://kbagi.com/alirao47/madelyn-marie-545105/list,1,1";
 
-pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
+pelis:"PELICULAS HD" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
 pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis3-586115";
-pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis4-586120";
+pelis:"FILMS HD" src="http://kbagi.com/emilezoll/pelis4-586120";
 
 beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
 beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
