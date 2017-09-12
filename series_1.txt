@@ -36,11 +36,6 @@ pelis:"PELICULAS HD" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
 pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis3-586115";
 pelis:"FILMS HD" src="http://kbagi.com/emilezoll/pelis4-586120";
 
-pelis:"LISTA HD" src="http://kbagi.com/emilezoll/pelis2-586110/list,1,1";
-pelis:"LISTA ESTRENOS" src="http://kbagi.com/emilezoll/pelis3-586115/list,1,1";
-pelis:"LISTA FILMS HD" src="http://kbagi.com/emilezoll/pelis4-586120/list,1,1";
-
-
 beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
 beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
 
