@@ -15,17 +15,8 @@ after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
 
 visit:"V los visitantes" src="http://kbagi.com/juanitronic/v-los-visitantes-2009-570365";
 
-
-
-beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
-
-BAnt:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
-
-
 Music:"Películas Musicales" src="http://kbagi.com/emilezoll/pelismusic-577897/list,1,1";
 
-
-erotic:"Mady II " src="http://kbagi.com/alirao47/madelyn-marie-545105";
 erotic:"Blanche " src="http://kbagi.com/alirao47/blanche-bradburry-573811/list,1,1";
 erotic:"Tamara " src="http://kbagi.com/alirao47/tamara-grace-561680/list,1,1";
 erotic:"Faye " src="http://kbagi.com/alirao47/faye-reagan-559442/list,1,1";
@@ -41,4 +32,9 @@ erotic:"Angel " src="http://kbagi.com/alirao47/angel-wicky-546844/list,1,1";
 erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Mady " src="http://kbagi.com/alirao47/madelyn-marie-545105/list,1,1";
 
-mady:"film " src="http://kbagi.com/alirao47/madelyn-marie-545105/list,1,1";
+pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
+pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis3-586115";
+pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis4-586120";
+
+beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
+beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
