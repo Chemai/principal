@@ -230,14 +230,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item><title>[COLOR purple][B]REGEX DKM +18[/B][/COLOR]</title>
+<item><title>[COLOR red][B]SERIES DKM[/B][/COLOR]</title>
 	<link>$doregex[makelist]</link>
 	<regex><name>makelist</name>
 		<listrepeat><![CDATA[
         <title>[COLOR blue] [B] [makelist.param3][/B][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-     		<thumbnail></thumbnail>
-			<fanart></fanart>
+     		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
+			<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart>
 			]]></listrepeat>
 		<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 		<page>http://diskokosmiko.mx/trivianita/xxx-jessica-jaymes-hd-71198/list,1,6</page>
@@ -262,9 +262,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<connection>keep-alive</connection>
 		<cookieJar></cookieJar>
 	</regex>
-		<thumbnail>https://i.imgur.com/4OMhILi.png</thumbnail>
-		<fanart>https://i.imgur.com/bfBlMxK.jpg</fanart>
-		<info>.</info></item>
+		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
+		<fanart>https://i.imgur.com/qS11iVg.jpg</fanart>
+		<info>Sección exclusiva para mayores de 18 años</info></item>
 
 
 
