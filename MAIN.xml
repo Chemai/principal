@@ -2,7 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <SetViewMode>502</SetViewMode><!--508-->
-<channels_info><title>[COLOR white]Personal Addon[/COLOR] -[COLOR gold][B] L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
+<channels_info><title>[COLOR red]Personal Addon[/COLOR] -[COLOR gold][B] L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
 		<description>Lista basica para Kodi Media Center</description>
 		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
 		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
@@ -37,7 +37,7 @@
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
 		<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart><link>http://ignorame</link>
 		<info>Sección exclusiva para mayores de 18 años</info>
-		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
+		<externallink>https://dl.dropbox.com/s/g0c6hs70lpvg6ax/zona_x.xml</externallink>
 	</item>
 
 	
