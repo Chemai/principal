@@ -272,12 +272,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 </channel>
 </channels>
-
-
-<channel>	<item>		<title>[B][COLOR brown]WORKING[/COLOR][/B]</title>
-		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<thumbnail>https://i.imgur.com/sPg9rNJ.png</thumbnail>
-		<fanart>https://i.imgur.com/bfBlMxK.jpg</fanart>
-		<externallink>https://dl.dropbox.com/s/m52sna2cg11zgsq/working.xml</externallink>
-	</item>
-</channel>	
