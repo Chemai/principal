@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<SetViewMode>502</SetViewMode><!--508-->
+<channels_info><title>[COLOR white]Personal Addon[/COLOR] [COLOR gold][B]L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
+		<description>Lista basica para Kodi Media Center</description>
+		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
+		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<genre>Video</genre>		<date>18-09-2017</date>
+		<credits>Chem@i</credits></channels_info>
+		
+		
+<items>			
+	<item>		<title>[B][COLOR gold]PELÍCULAS[/COLOR][/B]</title>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
+		<fanart>https://i.imgur.com/2QevvWY.jpg</fanart>
+		<externallink>https://dl.dropbox.com/s/ipjjlmmp5nqtr3t/PELCIULAS.xml</externallink>
+	</item>
+	
+	<item>		<title>[B][COLOR gold]SERIES[/COLOR][/B]</title>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<thumbnail>https://i.imgur.com/6kpgUGS.png</thumbnail>
+		<fanart>https://i.imgur.com/VHrivyb.jpg</fanart>
+		<externallink>https://dl.dropbox.com/s/p3mol7kg0vov8ji/SERIES.xml</externallink>
+	</item>
+		
+	<item>		<title>[B][COLOR gold]MUSIC DON'T STOP[/COLOR][/B]</title>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
+		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
+		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
+	</item>
+	
+</items>	
