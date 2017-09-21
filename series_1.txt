@@ -11,6 +11,9 @@ mash:"M.A.S.H. Temp 1" src="http://kbagi.com/emilezoll/mash-1-578165";
 mash:"M.A.S.H. Temp 2" src="http://kbagi.com/emilezoll/mash-2-578180";
 mash:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
 
+wyp:"Wayward Pines II" src="http://kbagi.com/emilezoll/wywp2-589159";
+wyp:"Wayward Pines I" src="http://kbagi.com/emilezoll/wywp-589148";
+
 after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
 
 visit:"V los visitantes" src="http://kbagi.com/juanitronic/v-los-visitantes-2009-570365";
