@@ -43,10 +43,23 @@ pir:"Piratas del Caribe" src="http://kbagi.com/emilezoll/pir-587733";
 pelis:"SALA 1" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
 pelis:"SALA 2" src="http://kbagi.com/emilezoll/pelis3-586115";
 pelis:"SALA 3" src="http://kbagi.com/emilezoll/pelis4-586120";
-
 pelis:"SALA 4" src="http://kbagi.com/emilezoll/pelis4-586120";
 pelis:"SALA 5" src="http://kbagi.com/emilezoll/pelis-5-587794";
 pelis:"SALA 6" src="http://kbagi.com/emilezoll/pelis6-588168";
+
+
+
+sala 1:"SALA 1" src="http://kbagi.com/emilezoll/sala1-586110";
+sala 2:"SALA 2" src="http://kbagi.com/emilezoll/sala2-586115";
+sala 3:"SALA 3" src="http://kbagi.com/emilezoll/sala3-586120";
+sala 4:"SALA 4" src="http://kbagi.com/emilezoll/sala4-588168";
+sala 5:"SALA 5" src="http://kbagi.com/emilezoll/sala5-587794";
+
+sala 6:"SALA 6" src="";
+sala 7:"SALA 7" src="";
+sala 8:"SALA 8" src="";
+sala 9:"SALA 9" src="";
+sala 0:"SALA 0" src="";
 
 beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
 beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
