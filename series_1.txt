@@ -38,35 +38,21 @@ erotic:"Misc " src="http://kbagi.com/alirao47/misc-554555/list,1,1";
 erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
 
-pir:"Piratas del Caribe" src="http://kbagi.com/emilezoll/pir-587733";
-
-pelis:"SALA 1" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
-pelis:"SALA 2" src="http://kbagi.com/emilezoll/pelis3-586115";
-pelis:"SALA 3" src="http://kbagi.com/emilezoll/pelis4-586120";
-pelis:"SALA 4" src="http://kbagi.com/emilezoll/pelis4-586120";
-pelis:"SALA 5" src="http://kbagi.com/emilezoll/pelis-5-587794";
-pelis:"SALA 6" src="http://kbagi.com/emilezoll/pelis6-588168";
 
 
+pelis:"SALA 1" src="http://kbagi.com/emilezoll/sala1-586110";
+pelis:"SALA 2" src="http://kbagi.com/emilezoll/sala2-586115";
+pelis:"SALA 3" src="http://kbagi.com/emilezoll/sala3-586120";
+pelis:"SALA 4" src="http://kbagi.com/emilezoll/sala4-588168";
+pelis:"SALA 5" src="http://kbagi.com/emilezoll/sala5-587794";
 
-sala 1:"SALA 1" src="http://kbagi.com/emilezoll/sala1-586110";
-sala 2:"SALA 2" src="http://kbagi.com/emilezoll/sala2-586115";
-sala 3:"SALA 3" src="http://kbagi.com/emilezoll/sala3-586120";
-sala 4:"SALA 4" src="http://kbagi.com/emilezoll/sala4-588168";
-sala 5:"SALA 5" src="http://kbagi.com/emilezoll/sala5-587794";
-
-sala 6:"SALA 6" src="";
-sala 7:"SALA 7" src="";
-sala 8:"SALA 8" src="";
-sala 9:"SALA 9" src="";
-sala 0:"SALA 0" src="";
+pelis:"SALA 6" src="http://kbagi.com/emilezoll/sala6-589515";
+pelis:"SALA 7" src="";
+pelis:"SALA 8" src="";
+pelis:"SALA 9" src="";
+pelis:"SALA 0" src="";
 
 beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
 beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
 
-serie:"GOT Temp. 1" src="http://kbagi.com/emilezoll/jdet-1-576713/list,1,1";
-serie:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
-serie:"Vikings" src="http://kbagi.com/juanitronic/vikings-562444/list,1,3";
-
 musitom:"Tom Waits" src:"http://kbagi.com/emilezoll/tom-586937";
-
