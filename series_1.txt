@@ -38,7 +38,7 @@ erotic:"Misc " src="http://kbagi.com/alirao47/misc-554555/list,1,1";
 erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
 
-
+sala0:"SALA 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png";
 
 pelis:"SALA 1" src="http://kbagi.com/emilezoll/sala1-586110";
 pelis:"SALA 2" src="http://kbagi.com/emilezoll/sala2-586115";
