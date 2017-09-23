@@ -39,7 +39,7 @@ erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
 
 
-pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"este texto e s el que denberia salir";
+pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"Listado de películas:·American honey,·Dejame salir,· El alumno,· El secreto de sus ojos,· I Am Not a Serial Killer,· IT (Latino),· Mine,· Personal Shopper,· Pozos de ambicion,· Primer ministro,· Un hombre llamado Ove";
 pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"01";
 pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" info:"02";
 pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" info:"03";
