@@ -39,14 +39,16 @@ erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
 
 sala0:"SALA 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"LISTA 0";
+sala1:"SALA 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"LISTA 1";
+
 
 pelis:"SALA 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"LISTA 0";
-pelis:"SALA 1" src="http://kbagi.com/emilezoll/sala2-586115" img="";
-pelis:"SALA 2" src="http://kbagi.com/emilezoll/sala3-586120" img="";
-pelis:"SALA 3" src="http://kbagi.com/emilezoll/sala4-588168" img="";
-pelis:"SALA 4" src="http://kbagi.com/emilezoll/sala5-587794" img="";;
+pelis:"SALA 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"LISTA 1";
+pelis:"SALA 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" info:"LISTA 2";
+pelis:"SALA 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" info:"LISTA 3";
+pelis:"SALA 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" info:"LISTA 4";
 
-pelis:"SALA 5" src="http://kbagi.com/emilezoll/sala6-589515" img="";;
+pelis:"SALA 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" info:"LISTA 5";
 pelis:"SALA 6" src="" img="";;
 pelis:"SALA 7" src="" img="";;
 pelis:"SALA 8" src="" img="";;
