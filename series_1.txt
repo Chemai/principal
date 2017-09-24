@@ -11,36 +11,62 @@ mash:"M.A.S.H. Temp 1" src="http://kbagi.com/emilezoll/mash-1-578165";
 mash:"M.A.S.H. Temp 2" src="http://kbagi.com/emilezoll/mash-2-578180";
 mash:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
 
+wyp:"Wayward Pines t I" src="http://kbagi.com/emilezoll/wywp-589148";
+wyp:"Wayward Pines tII" src="http://kbagi.com/emilezoll/wywp2-589159";
+
 after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
 
 visit:"V los visitantes" src="http://kbagi.com/juanitronic/v-los-visitantes-2009-570365";
 
 Music:"Películas Musicales" src="http://kbagi.com/emilezoll/pelismusic-577897/list,1,1";
 
+
+erotic:"Angel " src="http://kbagi.com/alirao47/angel-wicky-546844/list,1,1";
+erotic:"Asthon " src="http://kbagi.com/alirao47/ashton-pierce-545981/list,1,1";
 erotic:"Blanche " src="http://kbagi.com/alirao47/blanche-bradburry-573811/list,1,1";
-erotic:"Tamara " src="http://kbagi.com/alirao47/tamara-grace-561680/list,1,1";
 erotic:"Faye " src="http://kbagi.com/alirao47/faye-reagan-559442/list,1,1";
 erotic:"Jasmine " src="http://kbagi.com/alirao47/jasmine-james-559357/list,1,1";
-erotic:"Veronica " src="http://kbagi.com/alirao47/veronica-vain-557648/list,1,1";
 erotic:"Kendall " src="http://kbagi.com/alirao47/kendall-karson-559036/list,1,1";
-erotic:"Rocky " src="http://kbagi.com/alirao47/rocki-557385/list,1,1";
 erotic:"Kortney " src="http://kbagi.com/alirao47/kortney-kane-554506/list,1,1";
-erotic:"Misc " src="http://kbagi.com/alirao47/misc-554555/list,1,1";
-erotic:"Babes " src="http://kbagi.com/alirao47/babes-548306/list,1,1";
-erotic:"Asthon " src="http://kbagi.com/alirao47/ashton-pierce-545981/list,1,1";
-erotic:"Angel " src="http://kbagi.com/alirao47/angel-wicky-546844/list,1,1";
-erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
 erotic:"Mady " src="http://kbagi.com/alirao47/madelyn-marie-545105/list,1,1";
+erotic:"Rocky " src="http://kbagi.com/alirao47/rocki-557385/list,1,1";
+erotic:"Tamara " src="http://kbagi.com/alirao47/tamara-grace-561680/list,1,1";
+erotic:"Veronica " src="http://kbagi.com/alirao47/veronica-vain-557648/list,1,1";
 
-pelis:"PELICULAS HD" src="http://kbagi.com/emilezoll/pelis2-586110";/list,1,1
-pelis:"ESTRENOS" src="http://kbagi.com/emilezoll/pelis3-586115";
-pelis:"FILMS HD" src="http://kbagi.com/emilezoll/pelis4-586120";
+erotic:"Babes " src="http://kbagi.com/alirao47/babes-548306/list,1,1";
+erotic:"Misc " src="http://kbagi.com/alirao47/misc-554555/list,1,1";
+erotic:"Private " src="http://kbagi.com/dewilistrik/private-43792/list,1,1";
+erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
+
+
+pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"American honey, Dejame salir, El alumno, El secreto de sus ojos, I Am Not a Serial Killer, IT (Latino), Mine, Personal Shopper, Pozos de ambicion, Primer ministro, Un hombre llamado Ove";
+pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"Al filo de los diecisiete, Alto voltaje, B Barcenas 2015, Crónica de un asesino en serie, Fast & Furious 8, Felices sueños, Land of Mine (Bajo la arena), Locas de alegria, Match Point, Negacion, Una noche fuera de control";
+pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" info:"Attraction, Descontroladas, El circulo, En lucha incierta, Goat, kong la isla calavera, La puerta de al lado, Noche de venganza, Origen, Passengers, Rumbo a lo desconocido";
+pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" info:"8 Apellidos vascos, Celda 211, Centurion, El caso Sloane, Electricidad, Enemigos Publicos, Excision, Hija del dolor, La ninera perfecta, Norman, el hombre que lo conseguía todo, Salvacion";
+pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" info:"Baywatch Los vigilantes de la playa, El caso Sloane, Excision, La carta secreta, La cosecha, La niñera perfecta, MASH, Nieve negra, Si no despierto, The Intervention, Wilson";
+pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" info:"Alien Convergence, Contract to Kill, El ultimo disparo, El último virrey de la India, Eternamente hermanos, Guardián y verdugo, IT (2017), Marie Curie, El valor del conocimiento, Tercer Grado, Time Toys, Wonder Woman";
+
+
+pelis:"` Sala 6" src="" img="https://i.imgur.com/IdZ8psM.png"; info:"06";
+pelis:"` Sala 7" src="" img="https://i.imgur.com/4qSIT1m.png"; info:"07";
+pelis:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png"; info:"08";
+pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png"; info:"09";
+pelis:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png"; info:"10";
+
+
+
 
 beatles:"The Beatles Songs " src="http://kbagi.com/emilezoll/tbets-583836";
 beatles:"Beatles Anthology" src="http://kbagi.com/ezahan/the-beatles-anthology-283533";/list,1,1
 
-serie:"GOT Temp. 1" src="http://kbagi.com/emilezoll/jdet-1-576713/list,1,1";
-serie:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
-serie:"Vikings" src="http://kbagi.com/juanitronic/vikings-562444/list,1,3";
-
 musitom:"Tom Waits" src:"http://kbagi.com/emilezoll/tom-586937";
+
+
+
+          oooooooooooooooooooooooooooooooooooooooooo
+RESTOS
+
+
+sala0:"SALA 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"LISTA 0";
+sala1:"SALA 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"LISTA 1";
+
