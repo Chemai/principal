@@ -41,19 +41,20 @@ erotic:"Stars " src="http://kbagi.com/emilezoll/xxx-581476/list,1,1";
 
 
 
-pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
-pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"-Al filo de los diecisiete, -Alto voltaje, -B Barcenas 2015, -Crónica de un asesino en serie, -Fast & Furious 8, -Felices sueños, -Land of Mine (Bajo la arena), -Locas de alegria, -Match Point, -Negacion, Una noche fuera de control";
-pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
-pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
-pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
-pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
+pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
+pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" fan="https://i.imgur.com/z8xOeXa.jpg" info:"-Al filo de los diecisiete, -Alto voltaje, -B Barcenas 2015, -Crónica de un asesino en serie, -Fast & Furious 8, -Felices sueños, -Land of Mine (Bajo la arena), -Locas de alegria, -Match Point, -Negacion, Una noche fuera de control";
+pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" fan="https://i.imgur.com/ytZAGce.jpg" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
+pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" fan="https://i.imgur.com/2rPthjA.jpg" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
+pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" fan="https://i.imgur.com/rUEUCkf.jpg" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
+pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
 
 
-pelis:"` Sala 6" src="" img="https://i.imgur.com/IdZ8psM.png"; info:"06";
-pelis:"` Sala 7" src="" img="https://i.imgur.com/4qSIT1m.png"; info:"07";
-pelis:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png"; info:"08";
-pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png"; info:"09";
-pelis:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png"; info:"10";
+pelis:"` Sala 6" src="" img="https://i.imgur.com/IdZ8psM.png" fan="" info:"06";
+pelis:"` Sala 7" src="" img="https://i.imgur.com/4qSIT1m.png" fan="" info:"07";
+pelis:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png" fan="" info:"08";
+pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png" fan="" info:"09";
+pelis:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png" fan="" info:"10";
+
 
 
 
@@ -71,4 +72,20 @@ RESTOS
 
 sala0:"SALA 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"LISTA 0";
 sala1:"SALA 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"LISTA 1";
+
+
+
+peli:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
+peli:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" info:"-Al filo de los diecisiete, -Alto voltaje, -B Barcenas 2015, -Crónica de un asesino en serie, -Fast & Furious 8, -Felices sueños, -Land of Mine (Bajo la arena), -Locas de alegria, -Match Point, -Negacion, Una noche fuera de control";
+peli:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
+peli:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
+peli:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
+peli:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
+
+
+peli:"` Sala 6" src="" img="https://i.imgur.com/IdZ8psM.png"; info:"06";
+peli:"` Sala 7" src="" img="https://i.imgur.com/4qSIT1m.png"; info:"07";
+peli:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png"; info:"08";
+peli:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png"; info:"09";
+peli:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png"; info:"10";
 
