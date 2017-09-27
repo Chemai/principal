@@ -49,7 +49,7 @@ pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.im
 pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
 
 
-pelis:"` Sala 6" src="" img="https://i.imgur.com/IdZ8psM.png" fan="" info:"06";
+pelis:"` Sala 6" src="http://kbagi.com/emilezoll/sala7-590579" img="https://i.imgur.com/IdZ8psM.png" fan="" info:"06";
 pelis:"` Sala 7" src="" img="https://i.imgur.com/4qSIT1m.png" fan="" info:"07";
 pelis:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png" fan="" info:"08";
 pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png" fan="" info:"09";
