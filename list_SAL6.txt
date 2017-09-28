@@ -32,6 +32,13 @@ pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393" img="https://i.im
 sal:"" src="" img="" fan="" info:"";
 sal:"" src="" img="" fan="" info:"";
 
+
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+=============================================================================================================
+
+
 ------------------------- 00000000000000000000000000000000000000000000000000000000000000000000000000000
 pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
 
@@ -70,6 +77,75 @@ sal1:"Negacion" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fa
 
 sal1:"Una noche fuera de control" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
 
+----------------------------------------2222222222222222222222222222222222222222222222222222222
+pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/NUWLo3g.png" fan="https://i.imgur.com/ytZAGce.jpg" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
+
+sal2:"Attraction" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Descontroladas" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"El circulo" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"En lucha incierta" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Goat" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+
+sal2:"Kong la isla calavera" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"La puerta de al lado" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Noche de venganza" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Origen" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Passengers" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+
+sal2:"Rumbo a lo desconocido" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+
+
+---------------------------------------33333333333333333333333333333333333333333333333333333333333
+pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/GSO5Aa5.png" fan="https://i.imgur.com/2rPthjA.jpg" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
+
+sal3:"8 Apellidos vascos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Celda 211" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Centurion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"El caso Sloane" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Electricidad" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+
+sal3:"Enemigos Publicos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Excision" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Hija del dolor" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"La ninera perfecta" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Norman, el hombre que lo conseguía todo" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+
+sal3:"Salvacion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+
+
+---------------------------------------4444444444444444444444444444444444444444444444444444
+pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/MuX2arJ.png" fan="https://i.imgur.com/rUEUCkf.jpg" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
+
+sal4:"Baywatch Los vigilantes de la playa" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"El caso Sloane" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"Excision" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"La carta secreta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"La cosecha" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+
+sal4:"La niñera perfecta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"MASH" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"Nieve negra" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"Si no despierto" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"The Intervention" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+
+sal4:"Wilson" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+
+-----------------------------------------------555555555555555555555555555555555555
+pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
+
+sal5:"Alien Convergence" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Contract to Kill" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"El ultimo disparo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"El último virrey de la India" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Eternamente hermanos" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+
+sal5:"Guardián y verdugo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"IT (2017)" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Marie Curie, El valor del conocimiento" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Tercer Grado" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Time Toys" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+
+sal5:"Wonder Woman" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
 
 -----------------   66666666666666666666666666666666666666666666666666666666666666666666666666666666
 
@@ -90,3 +166,24 @@ sal6:"Mas alla del olvido" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1
 sal6:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://cdn.flickeringmyth.com/wp-content/uploads/2017/01/UNFTB_Main_1sht_2764x4096_INTL_master-600x889.jpg" fan="https://www.cinepremiere.com.mx/assets/images/criticasCN/2017/05-mayo/Mio-o-de-nadie-critica.jpg" info:" Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido. (FILMAFFINITY)"; ,gallery,1,1
 sal6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; ,list,1,1
 
+
+-------------------------------- 7777777777777777777777777777777777777777777777777777
+
+
+
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+
+
+sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+
+sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
