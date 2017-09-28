@@ -1,103 +1,77 @@
 --------------------------------------------------------------Cuando llevan lista al final del regex ----------------- van sin aqui
 
 sala6:"Amor Carnal" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/r_1280_720/pictures/17/05/10/15/17/436620.jpg" fan="https://art-s.nflximg.net/845d7/94aef79b9ebd4b16107a852f04951276466845d7.jpg" info:" Nos situamos en una sociedad post apocalíptica, en el desierto de Texas. Allí vive una comunidad caníbal con la que se encuentra Arlen, una desterrada solitaria que durante sus días en el desierto se hace amiga de una niña y su mascota. El líder de la comunidad se interesa por esta extraña pareja cambiando la vida de Arlen para siempre. El amor, la toma de decisiones y la búsqueda de la verdad serán algunas de las tantas cosas que tendrá que afrontar la protagonista."; /amor-carnal,4977875,gallery,1,1.mp4
-
-saa6:"Big Fish" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/big_fish-838287233-large.jpg" fan="http://images2.fanpop.com/image/photos/8900000/Big-Fish-big-fish-8972509-1024-768.jpg" info:" William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor. (FILMAFFINITY)"; /big-fish,4977877,gallery,1,1.mp4
-
+sala6:"Big Fish" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/big_fish-838287233-large.jpg" fan="http://images2.fanpop.com/image/photos/8900000/Big-Fish-big-fish-8972509-1024-768.jpg" info:" William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor. (FILMAFFINITY)"; /big-fish,4977877,gallery,1,1.mp4
 sala6:"Despertando a Zodiac" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/pictures/17/05/04/13/26/494587.jpg" fan="http://irishfilmcritic.com/wp-content/uploads/2017/05/Zodiac.jpg" info:" La historia sigue a una pareja desafortunada que descubre unas grabaciones de un asesino en serie. Deciden hacer justicia por su cuenta, arriesgando sus vidas para obtener la recompensa de 100.000 dólares. No tardarán mucho en estar en el punto de mira del asesino. (FILMAFFINITY)"; /despertando-a-zodiac,4977871,gallery,1,1.mp4
-
 sala6:"Duerme pequeña" src="http://kbagi.com/emilezoll/sala7-590579" img="http://verpeliculasenlinea.biz/wp-content/uploads/2017/09/MV5BNTM4ODNiNjItMWU2NC00ODRiLTlhOGItYWZmZWZhNzY5NzkzXkEyXkFqcGdeQXVyNTk0NzE2OTE@._V1_UX182_CR00182268_AL_.jpg" fan="https://i.ytimg.com/vi/N2lkC17EXUM/hqdefault.jpg" info:" Entre trabajar a tiempo completo, criar a un hijo joven, y tratar de mantener una relación con su marido separado, James, Lauren Bell necesita desesperadamente una cierta ayuda en la observación de su recién nacido, Riley. Pensando que ella ha encontrado la solución perfecta, contrata a su vecina, Owen, para que sea su niñera"; /duerme-pequena,4977864,gallery,1,1.mp4
-
 sala6:"Goodbye Berlin" src="http://kbagi.com/emilezoll/sala7-590579" img="http://www.golem.es/golem/carteles/2017/April/hd-1493114160.jpg" fan="http://es.web.img3.acsta.net/pictures/16/07/20/11/17/264159.jpg" info:" Maik, un muchacho de 14 años marginado por su clase, crece en el seno de una familia rica y disfuncional en Berlín. Durante las vacaciones veraniegas, su alcohólica madre ingresa en rehabilitación mientras su padre se ausenta con su joven ayudante por un presunto viaje de negocios. Maik está solo en casa, en su piscina, hasta que un nuevo compañero de clase llamado Tschick, joven inmigrante ruso, aparece con un coche robado. Juntos se lanzan a la carretera sin plan aparente. (FILMAFFINITY)";
-
 sala6:"Kingsman Servicio Secreto" src="http://kbagi.com/emilezoll/sala7-590579" img="https://images-na.ssl-images-amazon.com/images/I/51tKXymieML._SX466_.jpg" fan="http://es.web.img2.acsta.net/videothumbnails/15/02/25/10/04/294137.jpg" info:" Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons. (FILMAFFINITY)"; /kingsman-servicio-secreto,4977878,gallery,1,1.mp4
-
 sala6:"La Hora Decisiva" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/La_hora_decisiva-844906931-large.jpg" fan="http://www.larevista.ec/sites/default/files/7CINE-LR%2Cphoto01.jpg" info:" En febrero de 1952, una de las peores tormentas que jamás haya sufrido la costa este de Nueva Inglaterra parte dos petroleros por la mitad frente a la costa de Cabo Cod. En un pequeño bote salvavidas, enfrentándose al temporal y a las gélidas temperaturas, cuatro miembros de la Guardia Costera se disponen a intentar rescatar a los 30 marineros de uno de ellos, atrapados a bordo del buque que se está hundiendo. (FILMAFFINITY)"; /la-hora-decisiva,4977876,gallery,1,1.mp4
-
 sala6:"Maravillosa Familia De Tokio" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pbs.twimg.com/media/C8BcyDVXwAEsO54.jpg" fan="http://eiga.k-img.com/images/buzz/32626/yamada1_large.jpg" info:" Los tres hijos de una pareja que se acerca a su 50 aniversario de boda entran en shock cuando su madre pide el divorcio. (FILMAFFINITY)"; /maravillosa-familia-de-tokio,4977874,gallery,1,1.mp4
-
 sala6:"Mas alla del olvido" src="http://kbagi.com/emilezoll/sala7-590579" img="http://ftv01.stbm.it/imgbank/GALLERYXL/R201706/offr.jpg" fan="https://cdn.inquisitr.com/wp-content/uploads/2017/03/off-the-rails-lifetime-movie-inspired-by-true-events-true-story-hannah-barefoot-2017.jpg" info:" Tras un accidente ferroviario, una mujer llamada Nicole Barrow pierde la memoria. Con el tiempo, cuando empieza a recuperarla, empieza a sospechar que debió de tener una aventura con un hombre desaparecido. Film inquietante, a lo Hitchcock, con algunos momentos de inquietud logrados y unas eficaces interpretaciones, especialmente la de la protagonista Hannah Barefoot."; /mas-alla-del-olvido,4977863,gallery,1,1.mp4
-
 sala6:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579" img="https://cdn.flickeringmyth.com/wp-content/uploads/2017/01/UNFTB_Main_1sht_2764x4096_INTL_master-600x889.jpg" fan="https://www.cinepremiere.com.mx/assets/images/criticasCN/2017/05-mayo/Mio-o-de-nadie-critica.jpg" info:" Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido. (FILMAFFINITY)"; /mio-o-de-nadie,4977870,gallery,1,1
-
 sala6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; /your-name,4977873,list,1,1
 
-
-IMAGEN 6 https://i.imgur.com/IdZ8psM.png
-
-
-
 ------------------------------------------------------------------------------------------
+--------------------------------------------------------------Cuando NO llevan lista al final del regex se le pone al final--------
+
+
+pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
+pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" fan="https://i.imgur.com/z8xOeXa.jpg" info:"-Al filo de los diecisiete, -Alto voltaje, -B Barcenas 2015, -Crónica de un asesino en serie, -Fast & Furious 8, -Felices sueños, -Land of Mine (Bajo la arena), -Locas de alegria, -Match Point, -Negacion, Una noche fuera de control";
+pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120" img="https://i.imgur.com/NUWLo3g.png" fan="https://i.imgur.com/ytZAGce.jpg" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
+pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168" img="https://i.imgur.com/GSO5Aa5.png" fan="https://i.imgur.com/2rPthjA.jpg" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
+pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.imgur.com/MuX2arJ.png" fan="https://i.imgur.com/rUEUCkf.jpg" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
+pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
+pelis:"` Sala 6" src="http://kbagi.com/emilezoll/sala7-590579" img="https://i.imgur.com/IdZ8psM.png" fan="https://i.imgur.com/IdZ8psM.png" info:"-Amor carnal, -Big Fish, -Despertando a Zodiac, -Duerme, Pequeña, -Goodbye Berlin, -Kingsman Servicio Secreto, -La Hora Decisiva, -Maravillosa-Familia De Tokio, -Más allá del olvido, -Mío O De Nadie, -Your Name.";
+
+
+
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+
+sal"" src="" img="" fan="" info:"";
+sal"" src="" img="" fan="" info:"";
+sal"" src="" img="" fan="" info:"";
+
+------------------------- 00000000000000000000000000000000000000000000000000000000000000000000000000000
+pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
+
+
+sal0"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+
+sal0"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+
+sal0"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+
+
+
+
+
+
+
+-----------------   66666666666666666666666666666666666666666666666666666666666666666666666666666666
+
 http://kbagi.com/emilezoll/sala7-590579/list,1,1
 
-
-
-
-
---------------------------------------------------------------Cuando NO llevan lista al final del regex --------
-
+IMAGEN 6 https://i.imgur.com/IdZ8psM.png
 
 
 sal6:"Amor Carnal" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="http://fr.web.img4.acsta.net/r_1280_720/pictures/17/05/10/15/17/436620.jpg" fan="https://art-s.nflximg.net/845d7/94aef79b9ebd4b16107a852f04951276466845d7.jpg" info:" Nos situamos en una sociedad post apocalíptica, en el desierto de Texas. Allí vive una comunidad caníbal con la que se encuentra Arlen, una desterrada solitaria que durante sus días en el desierto se hace amiga de una niña y su mascota. El líder de la comunidad se interesa por esta extraña pareja cambiando la vida de Arlen para siempre. El amor, la toma de decisiones y la búsqueda de la verdad serán algunas de las tantas cosas que tendrá que afrontar la protagonista."; ,gallery,1,1.mp4
-
 sal6:"Big Fish" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pics.filmaffinity.com/big_fish-838287233-large.jpg" fan="http://images2.fanpop.com/image/photos/8900000/Big-Fish-big-fish-8972509-1024-768.jpg" info:" William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor. (FILMAFFINITY)"; ,gallery,1,1.mp4
-
 sal6:"Despertando a Zodiac" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="http://fr.web.img4.acsta.net/pictures/17/05/04/13/26/494587.jpg" fan="http://irishfilmcritic.com/wp-content/uploads/2017/05/Zodiac.jpg" info:" La historia sigue a una pareja desafortunada que descubre unas grabaciones de un asesino en serie. Deciden hacer justicia por su cuenta, arriesgando sus vidas para obtener la recompensa de 100.000 dólares. No tardarán mucho en estar en el punto de mira del asesino. (FILMAFFINITY)"; ,gallery,1,1.mp4
-
 sal6:"Duerme pequeña" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="http://verpeliculasenlinea.biz/wp-content/uploads/2017/09/MV5BNTM4ODNiNjItMWU2NC00ODRiLTlhOGItYWZmZWZhNzY5NzkzXkEyXkFqcGdeQXVyNTk0NzE2OTE@._V1_UX182_CR00182268_AL_.jpg" fan="https://i.ytimg.com/vi/N2lkC17EXUM/hqdefault.jpg" info:" Entre trabajar a tiempo completo, criar a un hijo joven, y tratar de mantener una relación con su marido separado, James, Lauren Bell necesita desesperadamente una cierta ayuda en la observación de su recién nacido, Riley. Pensando que ella ha encontrado la solución perfecta, contrata a su vecina, Owen, para que sea su niñera"; ,gallery,1,1.mp4
-
 sal6:"Goodbye Berlin" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="http://www.golem.es/golem/carteles/2017/April/hd-1493114160.jpg" fan="http://es.web.img3.acsta.net/pictures/16/07/20/11/17/264159.jpg" info:" Maik, un muchacho de 14 años marginado por su clase, crece en el seno de una familia rica y disfuncional en Berlín. Durante las vacaciones veraniegas, su alcohólica madre ingresa en rehabilitación mientras su padre se ausenta con su joven ayudante por un presunto viaje de negocios. Maik está solo en casa, en su piscina, hasta que un nuevo compañero de clase llamado Tschick, joven inmigrante ruso, aparece con un coche robado. Juntos se lanzan a la carretera sin plan aparente. (FILMAFFINITY)"; ,list,1,1.mp4
-
 sal6:"Kingsman Servicio Secreto" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://images-na.ssl-images-amazon.com/images/I/51tKXymieML._SX466_.jpg" fan="http://es.web.img2.acsta.net/videothumbnails/15/02/25/10/04/294137.jpg" info:" Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons. (FILMAFFINITY)"; ,gallery,1,1.mp4
-
 sal6:"La Hora Decisiva" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pics.filmaffinity.com/La_hora_decisiva-844906931-large.jpg" fan="http://www.larevista.ec/sites/default/files/7CINE-LR%2Cphoto01.jpg" info:" En febrero de 1952, una de las peores tormentas que jamás haya sufrido la costa este de Nueva Inglaterra parte dos petroleros por la mitad frente a la costa de Cabo Cod. En un pequeño bote salvavidas, enfrentándose al temporal y a las gélidas temperaturas, cuatro miembros de la Guardia Costera se disponen a intentar rescatar a los 30 marineros de uno de ellos, atrapados a bordo del buque que se está hundiendo. (FILMAFFINITY)"; ,gallery,1,1.mp4
-
 sal6:"Maravillosa Familia De Tokio" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pbs.twimg.com/media/C8BcyDVXwAEsO54.jpg" fan="http://eiga.k-img.com/images/buzz/32626/yamada1_large.jpg" info:" Los tres hijos de una pareja que se acerca a su 50 aniversario de boda entran en shock cuando su madre pide el divorcio. (FILMAFFINITY)"; ,gallery,1,1.mp4
-
 sal6:"Mas alla del olvido" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="http://ftv01.stbm.it/imgbank/GALLERYXL/R201706/offr.jpg" fan="https://cdn.inquisitr.com/wp-content/uploads/2017/03/off-the-rails-lifetime-movie-inspired-by-true-events-true-story-hannah-barefoot-2017.jpg" info:" Tras un accidente ferroviario, una mujer llamada Nicole Barrow pierde la memoria. Con el tiempo, cuando empieza a recuperarla, empieza a sospechar que debió de tener una aventura con un hombre desaparecido. Film inquietante, a lo Hitchcock, con algunos momentos de inquietud logrados y unas eficaces interpretaciones, especialmente la de la protagonista Hannah Barefoot."; ,gallery,1,1.mp4
-
 sal6:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://cdn.flickeringmyth.com/wp-content/uploads/2017/01/UNFTB_Main_1sht_2764x4096_INTL_master-600x889.jpg" fan="https://www.cinepremiere.com.mx/assets/images/criticasCN/2017/05-mayo/Mio-o-de-nadie-critica.jpg" info:" Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido. (FILMAFFINITY)"; ,gallery,1,1
-
 sal6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; ,list,1,1
-
-
-IMAGEN 6 https://i.imgur.com/IdZ8psM.png
-
-
-------------------------------------------------------------------------------------------------------numeros finales
-
-
-
-
-
-00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-
-
-SEGURIDAD
-
-
-sal8:"Amor Carnal" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/r_1280_720/pictures/17/05/10/15/17/436620.jpg" fan="https://art-s.nflximg.net/845d7/94aef79b9ebd4b16107a852f04951276466845d7.jpg" info:" Nos situamos en una sociedad post apocalíptica, en el desierto de Texas. Allí vive una comunidad caníbal con la que se encuentra Arlen, una desterrada solitaria que durante sus días en el desierto se hace amiga de una niña y su mascota. El líder de la comunidad se interesa por esta extraña pareja cambiando la vida de Arlen para siempre. El amor, la toma de decisiones y la búsqueda de la verdad serán algunas de las tantas cosas que tendrá que afrontar la protagonista."; /amor-carnal,4977875,gallery,1,1.mp4
-
-sal8:"Big Fish" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/big_fish-838287233-large.jpg" fan="http://images2.fanpop.com/image/photos/8900000/Big-Fish-big-fish-8972509-1024-768.jpg" info:" William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor. (FILMAFFINITY)"; /big-fish,4977877,gallery,1,1.mp4
-
-sal8:"Despertando a Zodiac" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/pictures/17/05/04/13/26/494587.jpg" fan="http://irishfilmcritic.com/wp-content/uploads/2017/05/Zodiac.jpg" info:" La historia sigue a una pareja desafortunada que descubre unas grabaciones de un asesino en serie. Deciden hacer justicia por su cuenta, arriesgando sus vidas para obtener la recompensa de 100.000 dólares. No tardarán mucho en estar en el punto de mira del asesino. (FILMAFFINITY)"; /despertando-a-zodiac,4977871,gallery,1,1.mp4
-
-sal8:"Duerme pequeña" src="http://kbagi.com/emilezoll/sala7-590579" img="http://verpeliculasenlinea.biz/wp-content/uploads/2017/09/MV5BNTM4ODNiNjItMWU2NC00ODRiLTlhOGItYWZmZWZhNzY5NzkzXkEyXkFqcGdeQXVyNTk0NzE2OTE@._V1_UX182_CR00182268_AL_.jpg" fan="https://i.ytimg.com/vi/N2lkC17EXUM/hqdefault.jpg" info:" Entre trabajar a tiempo completo, criar a un hijo joven, y tratar de mantener una relación con su marido separado, James, Lauren Bell necesita desesperadamente una cierta ayuda en la observación de su recién nacido, Riley. Pensando que ella ha encontrado la solución perfecta, contrata a su vecina, Owen, para que sea su niñera"; /duerme-pequena,4977864,gallery,1,1.mp4
-
-sal8:"Goodbye Berlin" src="http://kbagi.com/emilezoll/sala7-590579" img="http://www.golem.es/golem/carteles/2017/April/hd-1493114160.jpg" fan="http://es.web.img3.acsta.net/pictures/16/07/20/11/17/264159.jpg" info:" Maik, un muchacho de 14 años marginado por su clase, crece en el seno de una familia rica y disfuncional en Berlín. Durante las vacaciones veraniegas, su alcohólica madre ingresa en rehabilitación mientras su padre se ausenta con su joven ayudante por un presunto viaje de negocios. Maik está solo en casa, en su piscina, hasta que un nuevo compañero de clase llamado Tschick, joven inmigrante ruso, aparece con un coche robado. Juntos se lanzan a la carretera sin plan aparente. (FILMAFFINITY)"; /goodbye-berlin,4977834,list,1,1.mp4
-
-sal8:"Kingsman Servicio Secreto" src="http://kbagi.com/emilezoll/sala7-590579" img="https://images-na.ssl-images-amazon.com/images/I/51tKXymieML._SX466_.jpg" fan="http://es.web.img2.acsta.net/videothumbnails/15/02/25/10/04/294137.jpg" info:" Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons. (FILMAFFINITY)"; /kingsman-servicio-secreto,4977878,gallery,1,1.mp4
-
-sal8:"La Hora Decisiva" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/La_hora_decisiva-844906931-large.jpg" fan="http://www.larevista.ec/sites/default/files/7CINE-LR%2Cphoto01.jpg" info:" En febrero de 1952, una de las peores tormentas que jamás haya sufrido la costa este de Nueva Inglaterra parte dos petroleros por la mitad frente a la costa de Cabo Cod. En un pequeño bote salvavidas, enfrentándose al temporal y a las gélidas temperaturas, cuatro miembros de la Guardia Costera se disponen a intentar rescatar a los 30 marineros de uno de ellos, atrapados a bordo del buque que se está hundiendo. (FILMAFFINITY)"; /la-hora-decisiva,4977876,gallery,1,1.mp4
-
-sal8:"Maravillosa Familia De Tokio" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pbs.twimg.com/media/C8BcyDVXwAEsO54.jpg" fan="http://eiga.k-img.com/images/buzz/32626/yamada1_large.jpg" info:" Los tres hijos de una pareja que se acerca a su 50 aniversario de boda entran en shock cuando su madre pide el divorcio. (FILMAFFINITY)"; /maravillosa-familia-de-tokio,4977874,gallery,1,1.mp4
-
-sal8:"Mas alla del olvido" src="http://kbagi.com/emilezoll/sala7-590579" img="http://ftv01.stbm.it/imgbank/GALLERYXL/R201706/offr.jpg" fan="https://cdn.inquisitr.com/wp-content/uploads/2017/03/off-the-rails-lifetime-movie-inspired-by-true-events-true-story-hannah-barefoot-2017.jpg" info:" Tras un accidente ferroviario, una mujer llamada Nicole Barrow pierde la memoria. Con el tiempo, cuando empieza a recuperarla, empieza a sospechar que debió de tener una aventura con un hombre desaparecido. Film inquietante, a lo Hitchcock, con algunos momentos de inquietud logrados y unas eficaces interpretaciones, especialmente la de la protagonista Hannah Barefoot."; /mas-alla-del-olvido,4977863,gallery,1,1.mp4
-
-sal8:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579" img="https://cdn.flickeringmyth.com/wp-content/uploads/2017/01/UNFTB_Main_1sht_2764x4096_INTL_master-600x889.jpg" fan="https://www.cinepremiere.com.mx/assets/images/criticasCN/2017/05-mayo/Mio-o-de-nadie-critica.jpg" info:" Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido. (FILMAFFINITY)"; /mio-o-de-nadie,4977870,gallery,1,1
-
-sal8:"Your name" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; /your-name,4977873,list,1,1
-
-
-IMAGEN 6 https://i.imgur.com/IdZ8psM.png
 
