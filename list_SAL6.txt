@@ -36,19 +36,19 @@ sal"" src="" img="" fan="" info:"";
 pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
 
 
-sal0"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
 
-sal0"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
 
-sal0"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
 
 
 
