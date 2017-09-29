@@ -43,19 +43,19 @@ sal:"" src="" img="" fan="" info:"";
 pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
 
 
-sal0:"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/gz4LUgo.png" fan="" info:"";
+sal0:"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/OLNT5fY.png" fan="" info:"";
+sal0:"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/txZOYIv.png" fan="" info:"";
+sal0:"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/E7gzwA6.png" fan="" info:"";
+sal0:"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/O0PGcDf.png" fan="" info:"";
 
-sal0:"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
-sal0:"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/yc6fXGb.png" fan="" info:"";
+sal0:"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/TEAhw7O.png" fan="" info:"";
+sal0:"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/6loihoG.png" fan="" info:"";
+sal0:"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/443sxgV.png" fan="" info:"";
+sal0:"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/qCCGt70.png" fan="" info:"";
 
-sal0:"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="" fan="" info:"";
+sal0:"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/zKDLyc6.png" fan="" info:"";
 
 
 ----------------------------------------------------11111111111111111111111111111111111111111111111111111
@@ -63,89 +63,89 @@ pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.im
 
 
 
-sal1:"Al filo de los diecisiete" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Alto voltaje" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"B Barcenas" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Crónica de un asesino en serie" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Fast & Furious 8" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
+sal1:"Al filo de los diecisiete" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/Gg1CeQz.png" fan="" info:"";
+sal1:"Alto voltaje" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/wvZwLyB.png" fan="" info:"";
+sal1:"B Barcenas" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0228IQK.png" fan="" info:"";
+sal1:"Crónica de un asesino en serie" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/uXyCGID.png" fan="" info:"";
+sal1:"Fast & Furious 8" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/vcMvRLO.png" fan="" info:"";
 
-sal1:"Felices sueños" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Land of Mine (Bajo la arena)" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Locas de alegria" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Match Point" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
-sal1:"Negacion" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
+sal1:"Felices sueños" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/RhsljFX.png" fan="" info:"";
+sal1:"Land of Mine (Bajo la arena)" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0q9lJl3.png" fan="" info:"";
+sal1:"Locas de alegria" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/fpIpUNO.png" fan="" info:"";
+sal1:"Match Point" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/TutVqn8.png" fan="" info:"";
+sal1:"Negacion" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/mz55Psw.png" fan="" info:"";
 
-sal1:"Una noche fuera de control" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="" fan="" info:"";
+sal1:"Una noche fuera de control" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/Unk38YW.png" fan="" info:"";
 
 ----------------------------------------2222222222222222222222222222222222222222222222222222222
 pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/NUWLo3g.png" fan="https://i.imgur.com/ytZAGce.jpg" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
 
-sal2:"Attraction" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"Descontroladas" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"El circulo" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"En lucha incierta" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"Goat" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Attraction" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/wd284wx.png" fan="" info:"";
+sal2:"Descontroladas" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/jeTiWQH.png" fan="" info:"";
+sal2:"El circulo" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/1DIlVAO.png" fan="" info:"";
+sal2:"En lucha incierta" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/EPlerpB.png" fan="" info:"";
+sal2:"Goat" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/Xqf5BZL.png" fan="" info:"";
 
-sal2:"Kong la isla calavera" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"La puerta de al lado" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"Noche de venganza" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"Origen" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
-sal2:"Passengers" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Kong la isla calavera" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/Z9dq2J0.png" fan="" info:"";
+sal2:"La puerta de al lado" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/d8Wbfva.png" fan="" info:"";
+sal2:"Noche de venganza" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/lzyjR9H.png" fan="" info:"";
+sal2:"Origen" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/mJohpVa.png" fan="" info:"";
+sal2:"Passengers" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/Af9xT2h.png" fan="" info:"";
 
-sal2:"Rumbo a lo desconocido" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="" fan="" info:"";
+sal2:"Rumbo a lo desconocido" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/BStQrrU.png" fan="" info:"";
 
 
 ---------------------------------------33333333333333333333333333333333333333333333333333333333333
 pelis:"` Sala 3" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/GSO5Aa5.png" fan="https://i.imgur.com/2rPthjA.jpg" info:"-8 Apellidos vascos, -Celda 211, -Centurion, -El caso Sloane, Electricidad, Enemigos Publicos,- Excision, Hija del dolor, -La ninera perfecta, -Norman, el hombre que lo conseguía todo, -Salvacion";
 
-sal3:"8 Apellidos vascos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Celda 211" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Centurion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"El caso Sloane" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Electricidad" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"8 Apellidos vascos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/iYlOfNg.png" fan="" info:"";
+sal3:"Celda 211" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/NXq7w6X.png" fan="" info:"";
+sal3:"Centurion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/j3tH3jP.png" fan="" info:"";
+sal3:"El caso Sloane" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/cjfbCuG.png" fan="" info:"";
+sal3:"Electricidad" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/zpTv7rD.png" fan="" info:"";
 
-sal3:"Enemigos Publicos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Excision" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Hija del dolor" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"La ninera perfecta" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
-sal3:"Norman, el hombre que lo conseguía todo" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Enemigos Publicos" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/rhbL4vL.png" fan="" info:"";
+sal3:"Excision" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/PV3712d.png" fan="" info:"";
+sal3:"Hija del dolor" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/8a1sHap.png" fan="" info:"";
+sal3:"La ninera perfecta" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/dEWNQ8A.png" fan="" info:"";
+sal3:"Norman, el hombre que lo conseguía todo" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/vTWjUl0.png" fan="" info:"";
 
-sal3:"Salvacion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="" fan="" info:"";
+sal3:"Salvacion" src="http://kbagi.com/emilezoll/sala4-588168/list,1,1" img="https://i.imgur.com/cCb30fC.png" fan="" info:"";
 
 
 ---------------------------------------4444444444444444444444444444444444444444444444444444
 pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/MuX2arJ.png" fan="https://i.imgur.com/rUEUCkf.jpg" info:"-Baywatch Los vigilantes de la playa, -El caso Sloane, Excision, -La carta secreta, La cosecha, -La niñera perfecta, -MASH, -Nieve negra, -Si no despierto, -The Intervention, Wilson";
 
-sal4:"Baywatch Los vigilantes de la playa" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"El caso Sloane" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"Excision" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"La carta secreta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"La cosecha" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"Baywatch Los vigilantes de la playa" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/CJ1WuJn.png" fan="" info:"";
+sal4:"El caso Sloane" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/cjfbCuG.png" fan="" info:"";
+sal4:"Excision" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/PV3712d.png" fan="" info:"";
+sal4:"La carta secreta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/KmBnXkK.png" fan="" info:"";
+sal4:"La cosecha" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/i5hpVmA.png" fan="" info:"";
 
-sal4:"La niñera perfecta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"MASH" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"Nieve negra" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"Si no despierto" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
-sal4:"The Intervention" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"La niñera perfecta" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/cn3IHRG.png" fan="" info:"";
+sal4:"MASH" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/CL1Dxji.png" fan="" info:"";
+sal4:"Nieve negra" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/Qz8WT6j.png" fan="" info:"";
+sal4:"Si no despierto" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/cwM5v1P.png" fan="" info:"";
+sal4:"The Intervention" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/lz17W9p.png" fan="" info:"";
 
-sal4:"Wilson" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="" fan="" info:"";
+sal4:"Wilson" src="http://kbagi.com/emilezoll/sala5-587794/list,1,1" img="https://i.imgur.com/7VWiTT8.png" fan="" info:"";
 
 -----------------------------------------------555555555555555555555555555555555555
 pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
 
-sal5:"Alien Convergence" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"Contract to Kill" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"El ultimo disparo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"El último virrey de la India" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"Eternamente hermanos" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Alien Convergence" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/8dvuSXl.png" fan="" info:"";
+sal5:"Contract to Kill" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/HW6nKKq.png" fan="" info:"";
+sal5:"El ultimo disparo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/Kt8ZtpE.png" fan="" info:"";
+sal5:"El último virrey de la India" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/WiA5nbT.png" fan="" info:"";
+sal5:"Eternamente hermanos" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/UmRGiEd.png" fan="" info:"";
 
-sal5:"Guardián y verdugo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"IT (2017)" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"Marie Curie, El valor del conocimiento" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"Tercer Grado" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
-sal5:"Time Toys" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Guardián y verdugo" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/mHKB2L9.png" fan="" info:"";
+sal5:"IT (2017)" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/tNhgqXW.png" fan="" info:"";
+sal5:"Marie Curie, El valor del conocimiento" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/PNsvIk2.png" fan="" info:"";
+sal5:"Tercer Grado" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/UMs534B.png" fan="" info:"";
+sal5:"Time Toys" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/M94nC5V.png" fan="" info:"";
 
-sal5:"Wonder Woman" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="" fan="" info:"";
+sal5:"Wonder Woman" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="https://i.imgur.com/zFJxugV.png" fan="" info:"";
 
 -----------------   66666666666666666666666666666666666666666666666666666666666666666666666666666666
 
