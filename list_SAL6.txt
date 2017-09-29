@@ -149,7 +149,11 @@ sal5:"Wonder Woman" src="http://kbagi.com/emilezoll/sala6-589515/list,1,1" img="
 
 -----------------   66666666666666666666666666666666666666666666666666666666666666666666666666666666
 
+
+
 http://kbagi.com/emilezoll/sala7-590579/list,1,1
+
+https://i.imgur.com/fyDvwlm.jpg
 
 IMAGEN 6 https://i.imgur.com/IdZ8psM.png
 
@@ -174,16 +178,21 @@ sal6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="htt
 pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
 
 
-sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/fyDvwlm.jpg" fan="" info:"";
+sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
+sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
+sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
+sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
 
-sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
+sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="" info:"";
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+
+
+de aqui a la eternidad		https://i.imgur.com/E61WUCG.png
+
+deadly voltage		https://i.imgur.com/L3xnKkV.png
