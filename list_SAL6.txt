@@ -175,13 +175,15 @@ sal6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="htt
 
 
 
-pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, -Irina Palm, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
 
 
 sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/HSm8zb2.png" fan="" info:"";
 sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
 sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
+sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
 sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
+
 sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
 
 sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
