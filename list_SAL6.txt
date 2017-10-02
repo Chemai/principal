@@ -181,7 +181,7 @@ pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="htt
 sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/HSm8zb2.png" fan="" info:"";
 sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
 sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
-sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="http://www.elmulticine.com/imagenes/carteles/Irina-Palm-b.jpg" fan="" info:"";
+sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/dyEZDiU.png" fan="" info:"";
 sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
 
 sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
