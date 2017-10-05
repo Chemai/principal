@@ -13,7 +13,7 @@
 		
 <items>			
 		
-<item><title>[COLOR red]INFORMACIÓN IMPORTANTE[/COLOR] - [B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
+<item><title>[COLOR red]· INFORMACIÓN IMPORTANTE[/COLOR] - [B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex><name>text</name>
 <expres><![CDATA[#$pyFunction
@@ -29,21 +29,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</info></item>
 
 		
-	<item>		<title>[COLOR gold][B]CINE[/B][/COLOR]</title>
+	<item>		<title>[COLOR gold]· [B]PELÍCULAS[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
 		<fanart>http://i.imgur.com/2QevvWY.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/ipjjlmmp5nqtr3t/PELCIULAS.xml</externallink>
 	</item>
 	
-	<item>		<title>[COLOR gold][B]SERIES[/B][/COLOR]</title>
+	<item>		<title>[COLOR gold]· [B]SERIES TV[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/6kpgUGS.png</thumbnail>
 		<fanart>http://i.imgur.com/VHrivyb.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/p3mol7kg0vov8ji/SERIES.xml</externallink>
 	</item>
 		
-	<item>		<title>[COLOR gold][B]HUMOR[/B][/COLOR]</title>
+	<item>		<title>[COLOR gold]· [B]H UMOR[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/ivPJ1aE.png</thumbnail>
 		<fanart>https://i.imgur.com/EqA4DiB.jpg</fanart>
 		<info>HUMOR con MAYÚSCULAS</info>
@@ -51,21 +51,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink>https://dl.dropbox.com/s/b59yibjxlo66lb9/KBHumor.xml</externallink>
 	</item>
 		
-	<item>		<title>[COLOR gold][B]MUSIC DON'T STOP[/B][/COLOR]</title>
+	<item>		<title>[COLOR gold]· [B]MUSIC DON'T STOP[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
 		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
 	</item>
 	
-		<!--item>		<title>[COLOR gold][B]BAUL[/B][/COLOR]</title>
+		<!--item>		<title>[COLOR gold]· [B]BAUL[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
 		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink></externallink>
 	</item-->
 	
-	<item>		<title>[COLOR red][B]ZONA X[/B][/COLOR]</title>
+	<item>		<title>[COLOR red]· [B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
 		<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart><link>http://ignorame</link>
 		<info>Sección exclusiva para mayores de 18 años</info>
