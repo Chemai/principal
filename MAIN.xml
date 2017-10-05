@@ -20,7 +20,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    dialog.textviewer('[COLOR gold][B]AVISO IMPORTANTE[/B][/COLOR]', ' Este Addon sólo contiene enlaces a sitios de terceros que están disponibles gratuitamente en Internet. No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.\n\n\n\nPara el correcto funcionamiento hacer un reset addon antes de iniciar \n[COLOR gold][B]1º[/B][/COLOR]: Menú emergente del addon, [COLOR gold]AJUSTES[/COLOR]\n[COLOR gold][B]2º[/B][/COLOR]: Configuración general, click en [COLOR gold]POR DEFECTO[/COLOR] y seguidamente en [COLOR gold]OK[/COLOR]\n\n                       ¡¡¡ Disfruta !!!')
+    dialog.textviewer('[COLOR gold][B]AVISO IMPORTANTE[/B][/COLOR]', 'Este Addon sólo contiene enlaces a sitios de terceros que están disponibles gratuitamente en Internet. No se posee filiación de ninguna manera con los canales difundidos ni somos responsables de su contenido.\n Todo el contenido es copyright de sus respectivos propietarios.\n\n This Addon only contains links and embeds to channels from 3rd party sites which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.\n\n\n\n\n\n Para el correcto funcionamiento hacer un reset addon antes de iniciar. \n[COLOR gold]-[B]1º[/B][/COLOR]: Menú emergente del addon, [COLOR gold]AJUSTES[/COLOR]\n[COLOR gold]-[B]2º[/B][/COLOR]: Configuración general, click en [COLOR gold]POR DEFECTO[/COLOR] y seguidamente en [COLOR gold]OK[/COLOR]\n\n                       ¡¡¡ Disfruta !!!')
 ]]></expres>
 <page></page>
 </regex>
@@ -84,4 +84,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 	</items>	
 	
-	\n\n  DMCA: This Addon only contains links and embeds to channels from 3rd party sites which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners\n\n 
+	 
