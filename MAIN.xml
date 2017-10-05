@@ -7,11 +7,13 @@
 		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
 		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<genre>Video</genre>		<date>18-09-2017</date>
+		<genre>Video</genre>		<date>05-10-2017</date>
 		<credits>Chem@i</credits></channels_info>
 		
 		
-<item><title>[COLOR yellow]INFORMACIÓN [COLOR red][B]MUY[/B][/COLOR] IMPORTANTE[/COLOR][B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
+<items>			
+		
+<item><title>[COLOR red]INFORMACIÓN IMPORTANTE[/COLOR] - [B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex><name>text</name>
 <expres><![CDATA[#$pyFunction
@@ -27,8 +29,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</info></item>
 
 		
-		
-<items>			
 	<item>		<title>[COLOR gold][B]CINE[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
 		<fanart>http://i.imgur.com/2QevvWY.jpg</fanart>
@@ -58,12 +58,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
 	</item>
 	
-		<item>		<title>[COLOR gold][B]BAUL[/B][/COLOR]</title>
+		<!--item>		<title>[COLOR gold][B]BAUL[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
 		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink></externallink>
-	</item>
+	</item-->
 	
 	<item>		<title>[COLOR red][B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
