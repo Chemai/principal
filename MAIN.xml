@@ -13,7 +13,7 @@
 		
 <items>			
 		
-<item><title>[COLOR red]· INFORMACIÓN IMPORTANTE[/COLOR] - [B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
+<item><title>[COLOR gold]· INFO[/COLOR] - [B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex><name>text</name>
 <expres><![CDATA[#$pyFunction
