@@ -2,13 +2,30 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <SetViewMode>502</SetViewMode><!--508-->
-<channels_info><title>[COLOR red]Personal Addon[/COLOR] -[COLOR gold][B] L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
+<channels_info><title>[COLOR white]Personal Addon[/COLOR] [COLOR gold][B]L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
 		<description>Lista basica para Kodi Media Center</description>
 		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
 		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<genre>Video</genre>		<date>18-09-2017</date>
 		<credits>Chem@i</credits></channels_info>
+		
+		
+<item><title>[COLOR yellow]INFORMACIÓN [COLOR red][B]MUY[/B][/COLOR] IMPORTANTE[/COLOR][B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</title>
+<link>$doregex[text]</link>
+<regex><name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[COLOR gold][B]AVISO IMPORTANTE[/B][/COLOR]', ' Para el correcto funcionamiento hacer un reset addon antes de iniciar \n[COLOR gold][B]1º[/B][/COLOR]: Menú emergente del addon, [COLOR gold]AJUSTES[/COLOR]\n[COLOR gold][B]2º[/B][/COLOR]: Configuración general, click en [COLOR gold]POR DEFECTO[/COLOR] y seguidamente en [COLOR gold]OK[/COLOR]\n\n            ¡¡¡ Disfruta !!!')
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail><fanart></fanart>
+
+<info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</info></item>
+
 		
 		
 <items>			
@@ -26,11 +43,26 @@
 		<externallink>https://dl.dropbox.com/s/p3mol7kg0vov8ji/SERIES.xml</externallink>
 	</item>
 		
+	<item>		<title>[COLOR gold][B]HUMOR[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/ivPJ1aE.png</thumbnail>
+		<fanart>https://i.imgur.com/EqA4DiB.jpg</fanart>
+		<info>HUMOR con MAYÚSCULAS</info>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/b59yibjxlo66lb9/KBHumor.xml</externallink>
+	</item>
+		
 	<item>		<title>[COLOR gold][B]MUSIC DON'T STOP[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
 		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
+	</item>
+	
+		<item>		<title>[COLOR gold][B]BAUL[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
+		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
 	</item>
 	
 	<item>		<title>[COLOR red][B]ZONA X[/B][/COLOR]</title>
