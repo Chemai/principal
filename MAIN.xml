@@ -13,7 +13,7 @@
 		
 <items>			
 		
-<item><title>[COLOR gold]                · INFORMACIÓN IMPORTANTE[/COLOR]  -  [B][COLOR gold]L[/COLOR][/B][COLOR yellow]  ON[/COLOR]</title>
+	<item><title>[COLOR gold]                · INFORMACIÓN IMPORTANTE[/COLOR]  -  [B][COLOR gold]L[/COLOR][/B][COLOR yellow]  ON[/COLOR]</title>
 <link>$doregex[text]</link>
 <regex><name>text</name>
 <expres><![CDATA[#$pyFunction
@@ -27,7 +27,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</info></item>
 
 
-
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
@@ -35,8 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink></externallink>
 	</item>
 
-
-		
+	
 	<item>		<title>[COLOR gold]·   [B]PELÍCULAS[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
 		<fanart>http://i.imgur.com/2QevvWY.jpg</fanart>
@@ -66,15 +64,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
 	</item>
 	
-		<item>		<title>[COLOR gold]·   [B]BAUL[/B][/COLOR]</title>
-		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
-		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
+	<item>		<title>[COLOR gold]·   [B]BAUL[/B][/COLOR]</title>
+		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
+		<fanart>https://i.imgur.com/Hzxjjkj.jpg</fanart><link>http://ignorame</link>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/x93fedbix3ixvhq/BAUL.xml</externallink>
 	</item>
-	
-	
 
+	
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
@@ -82,8 +79,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink></externallink>
 	</item>
 
-	
-	
 	
 	<item>		<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
@@ -93,6 +88,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	</item>
 
 	
-	</items>	
+</items>	
 	
 	 

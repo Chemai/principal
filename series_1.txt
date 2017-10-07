@@ -49,12 +49,10 @@ pelis:"` Sala 4" src="http://kbagi.com/emilezoll/sala5-587794" img="https://i.im
 pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.imgur.com/aBcheCd.png" fan="https://i.imgur.com/8mnIRuK.jpg" info:"-Alien Convergence, -Contract to Kill, -El ultimo disparo, -El último virrey de la India, -Eternamente hermanos, -Guardián y verdugo, -IT (2017), -Marie Curie, -El valor del conocimiento, -Tercer Grado, Time Toys, Wonder Woman";
 pelis:"` Sala 6" src="http://kbagi.com/emilezoll/sala7-590579" img="https://i.imgur.com/IdZ8psM.png" fan="https://i.imgur.com/IdZ8psM.png" info:"-Amor carnal, -Big Fish, -Despertando a Zodiac, -Duerme, Pequeña, -Goodbye Berlin, -Kingsman Servicio Secreto, -La Hora Decisiva, -Maravillosa-Familia De Tokio, -Más allá del olvido, -Mío O De Nadie, -Your Name.";
 
-
-
 pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
 
+pelis:"` Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
 
-pelis:"` Sala 8" src="" img="https://i.imgur.com/OYENFw8.png" fan="" info:"08";
 pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png" fan="" info:"09";
 pelis:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png" fan="" info:"10";
 

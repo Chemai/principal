@@ -188,6 +188,7 @@ sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,
 
 sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
 sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="" info:"";
+
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
@@ -198,3 +199,23 @@ sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" inf
 de aqui a la eternidad		https://i.imgur.com/E61WUCG.png
 
 deadly voltage		https://i.imgur.com/L3xnKkV.png
+
+
+--------------------------8888888888888888888888888888888888888888888888888888-----------------------------------
+pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
+
+http://kbagi.com/emilezoll/sala8-593442/list,1,1
+
+sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
