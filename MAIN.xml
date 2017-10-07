@@ -65,11 +65,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	</item>
 	
 	<item>		<title>[COLOR gold]·   [B]BAUL[/B][/COLOR]</title>
-		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
-		<fanart>https://i.imgur.com/Hzxjjkj.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/x93fedbix3ixvhq/BAUL.xml</externallink>
-	</item>
+		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
+		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
+		</item>
 
 	
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
