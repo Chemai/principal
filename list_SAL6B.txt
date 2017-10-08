@@ -1,0 +1,73 @@
+--------------------------------------------------------------Cuando llevan lista al final del regex ----------------- van sin aqui
+sala6:"Amor Carnal" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/r_1280_720/pictures/17/05/10/15/17/436620.jpg" fan="https://art-s.nflximg.net/845d7/94aef79b9ebd4b16107a852f04951276466845d7.jpg" info:" Nos situamos en una sociedad post apocalíptica, en el desierto de Texas. Allí vive una comunidad caníbal con la que se encuentra Arlen, una desterrada solitaria que durante sus días en el desierto se hace amiga de una niña y su mascota. El líder de la comunidad se interesa por esta extraña pareja cambiando la vida de Arlen para siempre. El amor, la toma de decisiones y la búsqueda de la verdad serán algunas de las tantas cosas que tendrá que afrontar la protagonista."; /amor-carnal,4977875,gallery,1,1.mp4
+
+
+------------------------------------------------------------------------------------------
+--------------------------------------------------------------Cuando NO llevan lista al final del regex se le pone al final--------
+
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/4qSIT1m.png" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+
+pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
+
+
+
+
+sal:"" src="" img="" fan="" info:"";
+sal:"" src="" img="" fan="" info:"";
+
+
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+=============================================================================================================
+
+
+-------------------------------- 7777777777777777777777777777777777777777777777777777
+
+
+
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/FjVVRhc.jpg" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, -Irina Palm, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+
+
+sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/HSm8zb2.png" fan="" info:"";
+sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
+sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
+sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/dyEZDiU.png" fan="" info:"";
+sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
+
+sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
+
+sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
+sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="" info:"";
+
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+
+sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
+
+
+de aqui a la eternidad		https://i.imgur.com/E61WUCG.png
+
+deadly voltage		https://i.imgur.com/L3xnKkV.png
+
+
+--------------------------8888888888888888888888888888888888888888888888888888-----------------------------------
+
+pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
+
+
+
+sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
