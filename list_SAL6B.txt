@@ -27,19 +27,19 @@ sal:"" src="" img="" fan="" info:"";
 pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
 
 
-sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
+sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/mvfVYKd.jpg" fan="" info:"";
+sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/XrafKNN.jpg" fan="" info:"";
+sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/yyOyS8y.jpg" fan="" info:"";
+sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/EDJ6sLh.jpg" fan="" info:"";
+sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/pTJZlzq.jpg" fan="" info:"";
+sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/e6wYs9s.jpg" fan="" info:"";
 
-sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
+sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/zNdKD0k.jpg" fan="" info:"";
+sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/nYnzJAn.jpg" fan="" info:"";
 
-sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
-sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info:"";
+sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/njdiklh.jpg" fan="" info:"";
+sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/twpD6Qd.jpg" fan="" info:"";
+sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/fRW80Cn.jpg" fan="" info:"";
 
 
 
@@ -47,25 +47,22 @@ sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list
 
 
 
-pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/FjVVRhc.jpg" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, -Irina Palm, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
+pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/d5jYlis.jpg" info:"- Alien Covenant, - American Pastoral, - El ciudadano ilustre, - Identidades opuestas, -Irina Palm, -Jem Y Los Hologramas, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Nosotros En La Noche, - Starship Troopers, Traitor of Mars,";
 
 
 sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/HSm8zb2.png" fan="" info:"";
+sal7:"American Pastoral" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/xPsMdEQ.jpg" fan="" info:"";
 sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
 sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
 sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/dyEZDiU.png" fan="" info:"";
+
+sal7:"Jem Y Los Hologramas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/VCAbZMz.jpg" fan="" info:"";
 sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
-
 sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
-
 sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
+sal7:"Nosotros En La Noche" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/IxukvfX.jpg" fan="" info:"";
+
 sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="" info:"";
-
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
 
 
 de aqui a la eternidad		https://i.imgur.com/E61WUCG.png
