@@ -202,9 +202,10 @@ deadly voltage		https://i.imgur.com/L3xnKkV.png
 
 
 --------------------------8888888888888888888888888888888888888888888888888888-----------------------------------
-pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
 
-http://kbagi.com/emilezoll/sala8-593442/list,1,1
+pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
+
+
 
 sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
 sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
