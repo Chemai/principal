@@ -56,18 +56,38 @@ deadly voltage		https://i.imgur.com/L3xnKkV.png
 
 pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
 
+http://kbagi.com/emilezoll/sala8-593442
 
+sal6b:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442" img="" fan="" info="";
+sal6b:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
 
-sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
 
-sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal6b:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
 
-sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+--------------------------------------------
+
+pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
+
+http://kbagi.com/emilezoll/sala8-593442
+
+sal8a:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442" img="" fan="" info="";
+sal8a:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8a:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+
+sal8a:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
+sal8a:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
