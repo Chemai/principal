@@ -5,12 +5,11 @@ sala6:"Big Fish" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics
 sala6:"Despertando a Zodiac" src="http://kbagi.com/emilezoll/sala7-590579" img="http://fr.web.img4.acsta.net/pictures/17/05/04/13/26/494587.jpg" fan="http://irishfilmcritic.com/wp-content/uploads/2017/05/Zodiac.jpg" info:" La historia sigue a una pareja desafortunada que descubre unas grabaciones de un asesino en serie. Deciden hacer justicia por su cuenta, arriesgando sus vidas para obtener la recompensa de 100.000 dólares. No tardarán mucho en estar en el punto de mira del asesino. (FILMAFFINITY)"; /despertando-a-zodiac,4977871,gallery,1,1.mp4
 sala6:"Duerme pequeña" src="http://kbagi.com/emilezoll/sala7-590579" img="http://verpeliculasenlinea.biz/wp-content/uploads/2017/09/MV5BNTM4ODNiNjItMWU2NC00ODRiLTlhOGItYWZmZWZhNzY5NzkzXkEyXkFqcGdeQXVyNTk0NzE2OTE@._V1_UX182_CR00182268_AL_.jpg" fan="https://i.ytimg.com/vi/N2lkC17EXUM/hqdefault.jpg" info:" Entre trabajar a tiempo completo, criar a un hijo joven, y tratar de mantener una relación con su marido separado, James, Lauren Bell necesita desesperadamente una cierta ayuda en la observación de su recién nacido, Riley. Pensando que ella ha encontrado la solución perfecta, contrata a su vecina, Owen, para que sea su niñera"; /duerme-pequena,4977864,gallery,1,1.mp4
 sala6:"Goodbye Berlin" src="http://kbagi.com/emilezoll/sala7-590579" img="http://www.golem.es/golem/carteles/2017/April/hd-1493114160.jpg" fan="http://es.web.img3.acsta.net/pictures/16/07/20/11/17/264159.jpg" info:" Maik, un muchacho de 14 años marginado por su clase, crece en el seno de una familia rica y disfuncional en Berlín. Durante las vacaciones veraniegas, su alcohólica madre ingresa en rehabilitación mientras su padre se ausenta con su joven ayudante por un presunto viaje de negocios. Maik está solo en casa, en su piscina, hasta que un nuevo compañero de clase llamado Tschick, joven inmigrante ruso, aparece con un coche robado. Juntos se lanzan a la carretera sin plan aparente. (FILMAFFINITY)";
+
 sala6:"Kingsman Servicio Secreto" src="http://kbagi.com/emilezoll/sala7-590579" img="https://images-na.ssl-images-amazon.com/images/I/51tKXymieML._SX466_.jpg" fan="http://es.web.img2.acsta.net/videothumbnails/15/02/25/10/04/294137.jpg" info:" Un veterano agente secreto inglés (Colin Firth) debe entrenar a un joven sin refinar (Taron Egerton), pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, al mismo tiempo que una amenaza global emerge procedente de un genio retorcido. Adaptación del cómic de Mark Millar y Dave Gibbons. (FILMAFFINITY)"; /kingsman-servicio-secreto,4977878,gallery,1,1.mp4
 sala6:"La Hora Decisiva" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/La_hora_decisiva-844906931-large.jpg" fan="http://www.larevista.ec/sites/default/files/7CINE-LR%2Cphoto01.jpg" info:" En febrero de 1952, una de las peores tormentas que jamás haya sufrido la costa este de Nueva Inglaterra parte dos petroleros por la mitad frente a la costa de Cabo Cod. En un pequeño bote salvavidas, enfrentándose al temporal y a las gélidas temperaturas, cuatro miembros de la Guardia Costera se disponen a intentar rescatar a los 30 marineros de uno de ellos, atrapados a bordo del buque que se está hundiendo. (FILMAFFINITY)"; /la-hora-decisiva,4977876,gallery,1,1.mp4
 sala6:"Maravillosa Familia De Tokio" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pbs.twimg.com/media/C8BcyDVXwAEsO54.jpg" fan="http://eiga.k-img.com/images/buzz/32626/yamada1_large.jpg" info:" Los tres hijos de una pareja que se acerca a su 50 aniversario de boda entran en shock cuando su madre pide el divorcio. (FILMAFFINITY)"; /maravillosa-familia-de-tokio,4977874,gallery,1,1.mp4
-
 sala6:"Mas alla del olvido" src="http://kbagi.com/emilezoll/sala7-590579" img="http://ftv01.stbm.it/imgbank/GALLERYXL/R201706/offr.jpg" fan="https://cdn.inquisitr.com/wp-content/uploads/2017/03/off-the-rails-lifetime-movie-inspired-by-true-events-true-story-hannah-barefoot-2017.jpg" info:" Tras un accidente ferroviario, una mujer llamada Nicole Barrow pierde la memoria. Con el tiempo, cuando empieza a recuperarla, empieza a sospechar que debió de tener una aventura con un hombre desaparecido. Film inquietante, a lo Hitchcock, con algunos momentos de inquietud logrados y unas eficaces interpretaciones, especialmente la de la protagonista Hannah Barefoot."; /mas-alla-del-olvido,4977863,gallery,1,1.mp4
-
 sala6:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579" img="https://cdn.flickeringmyth.com/wp-content/uploads/2017/01/UNFTB_Main_1sht_2764x4096_INTL_master-600x889.jpg" fan="https://www.cinepremiere.com.mx/assets/images/criticasCN/2017/05-mayo/Mio-o-de-nadie-critica.jpg" info:" Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido. (FILMAFFINITY)"; /mio-o-de-nadie,4977870,gallery,1,1
 
 sala6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; /your-name,4977873,list,1,1
@@ -34,56 +33,58 @@ pelis:"` Sala 5" src="http://kbagi.com/emilezoll/sala6-589515" img="https://i.im
 pelis:"` Sala 6" src="http://kbagi.com/emilezoll/sala7-590579" img="https://i.imgur.com/IdZ8psM.png" fan="https://i.imgur.com/IdZ8psM.png" info:"-Amor carnal, -Big Fish, -Despertando a Zodiac, -Duerme, Pequeña, -Goodbye Berlin, -Kingsman Servicio Secreto, -La Hora Decisiva, -Maravillosa-Familia De Tokio, -Más allá del olvido, -Mío O De Nadie, -Your Name.";
 
 
-
 sal:"" src="" img="" fan="" info:"";
 sal:"" src="" img="" fan="" info:"";
-
 
 ---------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------
 =============================================================================================================
-
-
 ------------------------- 00000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
 pelis:"` Sala 0" src="http://kbagi.com/emilezoll/sala1-586110" img="https://i.imgur.com/etcIyMa.png" fan="https://i.imgur.com/GLwcXpH.jpg" info:"-American honey, -Dejame salir, -El alumno, -El secreto de sus ojos, -I Am Not a Serial Killer, -IT (Latino), -Mine, -Personal Shopper, -Pozos de ambicion, -Primer ministro, -Un hombre llamado Ove";
 
 
-sal0:"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/gz4LUgo.png" fan="" info:"";
-sal0:"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/OLNT5fY.png" fan="" info:"";
-sal0:"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/txZOYIv.png" fan="" info:"";
-sal0:"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/E7gzwA6.png" fan="" info:"";
+sal0:"American honey" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/gz4LUgo.png" fan="http://es.web.img3.acsta.net/pictures/16/12/14/11/00/591018.jpg" info:"Star (Sasha Lane), una chica adolescente, deja a su disfuncional familia para unirse a un equipo de venta de suscripciones de revistas, que recorre, vendiendo puerta a puerta, el mediooeste estadounidense. Rápidamente se siente a gusto en ese grupo de jóvenes, al que también pertenece Jake (Shia LeBeouf), y adopta su estilo de vida, entre veladas bañadas en alcohol, pequeños delitos e historias de amor… (FILMAFFINITY)";
+sal0:"Dejame salir" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/OLNT5fY.png" fan="http://es.web.img3.acsta.net/pictures/17/04/20/09/43/095486.jpg" info:"Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris (Daniel Kaluuya) y su novia Rose (Allison Williams) ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy (Catherine Keener) y Dean (Bradley Whitford). Al principio, Chris piensa que el comportamiento "demasiado" complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable. (FILMAFFINITY)";
+sal0:"El alumno" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/txZOYIv.png" fan="http://entervideo.net/thumbs/the.student.2017.hdrip.xvid.ac3-evo___59923e3134c34.mp4.jpg" info:"Después de superar una depresión, Abigail comienza de nuevo a da dar clases de ética en la facultad de Derecho. Un día, se enfrenta a uno de sus alumnos, un joven ambicioso con muy pocos escrúpulos. (FILMAFFINITY)";
+sal0:"El secreto de sus ojos" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/E7gzwA6.png" fan="https://i2.wp.com/capitalinoerrante.com/wp-content/uploads/2015/11/35202-1.jpg?fit=1600%2C680&ssl=1" info:"Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años. (FILMAFFINITY)";
 sal0:"I Am Not a Serial Killer" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/O0PGcDf.png" fan="" info:"";
 
-sal0:"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/yc6fXGb.png" fan="" info:"";
-sal0:"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/TEAhw7O.png" fan="" info:"";
-sal0:"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/6loihoG.png" fan="" info:"";
-sal0:"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/443sxgV.png" fan="" info:"";
-sal0:"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/qCCGt70.png" fan="" info:"";
+sal0:"IT (Latino)" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/yc6fXGb.png" fan="http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/styles/gallery_big/public/media/image/2017/08/it-eso_4.jpg?itok=mUOPIqt7" info:"Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King "It". (FILMAFFINITY)";
+sal0:"Mine" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/TEAhw7O.png" fan="https://image.tmdb.org/t/p/original/dEJryRu1avfAiRF2jZ90Iq14TPP.jpg" info:"El marine francotirador del ejército norteamericano Mike Stevens se queda de repente solo y perdido en medio del desierto tras una misión contra el líder de una célula terrorista que sale mal. (FILMAFFINITY)";
+sal0:"Personal Shopper" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/6loihoG.png" fan="https://wallpapersite.com/images/pages/pic_w/7824.jpg" info:"Maureen, una joven estadounidense en París, se hace cargo del guardarropa de una celebridad. Aunque no le gusta su trabajo, es lo único que encontró para su pagar su estancia mientras espera una manifestación del espíritu de Lewis, su hermano gemelo desaparecido hace poco. Maureen comienza entonces a recibir en su móvil extraños mensajes anónimos. (FILMAFFINITY)";
+sal0:"Pozos de ambicion" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/443sxgV.png" fan="https://cineactual.net/fotos/paulthomasanderson_01.jpg" info:"Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview (Daniel Day-Lewis) se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimiento de petróleo en 1902, se convierte en un acaudalado magnate. Cuando, años después, intenta apoderarse de un nuevo yacimiento, tiene que enfrentarse al predicador Eli Sunday (Paul Dano). Adaptación de la novela de Upton Sinclair "Petróleo", escrita en 1927. (FILMAFFINITY)";
+sal0:"Primer ministro" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/qCCGt70.png" fan="http://www.cine365static.com/assets/img/peliculas/2464/8/extra/8798f-ministro8.jpg" info:"El Primer ministro belga es secuestrado, junto a su mujer y sus hijos, justo unos minutos antes de que comenzara una importante visita diplomática del presidente de Estados Unidos. La condición de los secuestradores es clara y contundente: la única forma de salvar su propia vida y la de su familia será asesinar al presidente estadounidense aprovechando el inminente encuentro. Sin tiempo de reacción, y sin posibilidad de acudir al Servicio Secreto, tiene que decidir entre la vida de su familia, la de su invitado y su deber como Primer ministro. (FILMAFFINITY)";
 
-sal0:"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/zKDLyc6.png" fan="" info:"";
+sal0:"Un hombre llamado Ove" src="http://kbagi.com/emilezoll/sala1-586110/list,1,1" img="https://i.imgur.com/zKDLyc6.png" fan="https://pics.filmaffinity.com/Un_hombre_llamado_Ove-260687322-large.jpg" info:"Ove (Rolf Lassgård), de 59 años, es un hombre gruñón que ha perdido la fe en todo el mundo, incluido en él mismo; hasta que su visión negativa del hombre y la sociedad es puesta a prueba por una familia que se muda a la casa de al lado. (FILMAFFINITY)";
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------11111111111111111111111111111111111111111111111111111--------------------------------------
 
-----------------------------------------------------11111111111111111111111111111111111111111111111111111
 pelis:"` Sala 1" src="http://kbagi.com/emilezoll/sala2-586115" img="https://i.imgur.com/TFxbGl6.png" fan="https://i.imgur.com/z8xOeXa.jpg" info:"-Al filo de los diecisiete, -Alto voltaje, -B Barcenas 2015, -Crónica de un asesino en serie, -Fast & Furious 8, -Felices sueños, -Land of Mine (Bajo la arena), -Locas de alegria, -Match Point, -Negacion, Una noche fuera de control";
 
 
 
-sal1:"Al filo de los diecisiete" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/Gg1CeQz.png" fan="" info:"";
-sal1:"Alto voltaje" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/wvZwLyB.png" fan="" info:"";
-sal1:"B Barcenas" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0228IQK.png" fan="" info:"";
-sal1:"Crónica de un asesino en serie" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/uXyCGID.png" fan="" info:"";
-sal1:"Fast & Furious 8" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/vcMvRLO.png" fan="" info:"";
+sal1:"Al filo de los diecisiete" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/Gg1CeQz.png" fan="http://peliculas.nu/wp-content/uploads/2017/01/the-edge-of-seventeen-2152-backdrop.jpg" info:"Dos estudiantes de instituto que son las mejores amigas ven cómo su amistad se tambalea cuando una comienza a salir con el hermano mayor de la otra. (FILMAFFINITY)";
+sal1:"Alto voltaje" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/wvZwLyB.png" fan="https://image.tmdb.org/t/p/original/yr9ZWlNyR8Yz43q5gv2YZPt4Bbw.jpg" info:"Un mafioso chino se hará con el indestructible corazón de Chev Chelios (protagonista de la primera entrega), y lo sustituirá por una batería, la cual requiere de descargas de electricidad para seguir funcionando. (FILMAFFINITY)";
+sal1:"B Barcenas" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0228IQK.png" fan="http://www.ingennia.net/wp-content/uploads/2017/05/20170509123141326.jpg" info:"El 15 de Julio de 2013, el extesorero del Partido Popular, Luis Bárcenas, es trasladado desde la prisión para declarar en la Audiencia Nacional. Hasta este día, había negado toda relación con los llamados "papeles de Bárcenas", pero después de 18 días en prisión ha decidido cambiar su declaración. Esta película retrata lo que pasó en esa sala aquel día. (FILMAFFINITY)";
+sal1:"Crónica de un asesino en serie" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/uXyCGID.png" fan="http://es.web.img3.acsta.net/r_1280_720/pictures/17/05/10/11/31/019550.jpg" info:"Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso. (FILMAFFINITY)";
+sal1:"Fast & Furious 8" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/vcMvRLO.png" fan="https://media.melty.fr/article-3337951-fb-f1475137011/xxx-3-ff8-fast-8-xxx-reactivated-bande-annonce.jpg" info:"Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él. A partir de ese momento todos se enfrentarán a pruebas como nunca antes habían tenido. Desde las costas de Cuba y las calles de Nueva York hasta las llanuras del mar de Barents en el océano Ártico, nuestra fuerza de élite recorrerá el globo para impedir que un anarquista desencadene el caos en el mundo... y por supuesto para traer de vuelta a casa al hombre que les hizo una familia. (FILMAFFINITY)";
 
-sal1:"Felices sueños" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/RhsljFX.png" fan="" info:"";
-sal1:"Land of Mine (Bajo la arena)" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0q9lJl3.png" fan="" info:"";
-sal1:"Locas de alegria" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/fpIpUNO.png" fan="" info:"";
-sal1:"Match Point" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/TutVqn8.png" fan="" info:"";
-sal1:"Negacion" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/mz55Psw.png" fan="" info:"";
+sal1:"Felices sueños" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/RhsljFX.png" fan="https://pics.filmaffinity.com/fai_bei_sogni_sweet_dreams-952521450-large.jpg" info:"Turín, 1969. Massimo es un joven de nueve años que disfruta de una infancia feliz junto a su madre, una mujer cariñosa pero psicológicamente inestable. Una mañana, el pequeño es invitado a pasar unos días en casa de unos vecinos, quienes le explican que su madre ha fallecido. Massimo, quien crece sin haber conocido las causas de la muerte de su progenitora y nunca entablar relación con su padre. Treinta años más tarde, Massimo se ha convertido en un reputado escritor y periodista, comienza a sufrir una serie de ataques de pánico. Cuando Massimo se prepare para vender el apartamento familiar, Elisa, una doctora, le ayudará a enfrentarse a las heridas de su pasado. Este drama italiano está basado en la novela de Massimo Gramellini 'Fai bei sogni'. (FILMAFFINITY)";
+sal1:"Land of Mine (Bajo la arena)" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/0q9lJl3.png" fan="http://argottraduccion.com/wp-content/uploads/2017/06/land-of-mine-bajo-la-arena-guerra-y-paz.jpg" info:"La guerra no acaba cuando se firma la paz. Cuando Alemania se rindió en 1945, en la costa occidental danesa comenzó otra dura batalla: la de los jóvenes soldados alemanes que fueron obligados a retirar miles de minas plantadas en la arena por el ejército nazi. Zandvliet muestra el maltrato infligido a esos prisioneros, un oscuro episodio de posguerra poco conocido. (FILMAFFINITY)";
+sal1:"Locas de alegria" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/fpIpUNO.png" fan="https://www.estiloysalud.es/galerias-noticias/galerias/4189/Locas%20de%20alegria5.jpg" info:"Beatrice (Valeria Bruni Tedeschi) es una condesa charlatana y millonaria que está convencida de encontrarse entre los círculos íntimos de los líderes políticos mundiales. Por su parte Donatella (Micaella Ramazzotti) es una joven tatuada, vulnerable e introvertida, envuelta en su propio halo de misterio. Ambas son pacientes de Villabiondi, una delirante institución psiquiátrica. (FILMAFFINITY)";
+sal1:"Match Point" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/TutVqn8.png" fan="http://www.avcesar.com/source/software/tmdb/3355/extrait_match-point_0.jpg" info:"Chris Wilton (Jonathan Rhys Meyers) es un ambicioso y joven profesor de tenis con escasos recursos económicos. Gracias a su amistad con Tom Hewett (Mattew Goode), consigue entrar en la alta sociedad londinense y enamorar a su hermana Chloe (Emily Mortimer). Tom, por su parte, sale con Nola Rice (Johansson), una atractiva americana, de la que Chris se encapricha nada más verla. El azar, la pasión y, sobre todo, la ambición llevarán a Chris a cometer acciones que determinarán su vida y la de los demás para siempre. (FILMAFFINITY)";
+sal1:"Negacion" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/mz55Psw.png" fan="http://circuiturgellenc.com/bku9/media/k2/galleries/1153/Negacion-00012.jpg" info:"Cuando la famosa historiadora norteamericana Deborah E. Lipstadt acusó a determinados periodistas e historiadores de negacionistas en su libro "La Negación del Holocausto", fue denunciada por el negacionista británico David Irving, un famoso periodista e historiador admirador de Hitler, y que se querelló en 1996 contra ella por difamación. Entonces Lipstadt se propuso derrotar a Irving y los negacionistas en Inglaterra únicamente con expertos en el ámbito académico, sin llamar a declarar siquiera a un sólo superviviente de la Shoah. (FILMAFFINITY)";
 
 sal1:"Una noche fuera de control" src="http://kbagi.com/emilezoll/sala2-586115/list,1,1" img="https://i.imgur.com/Unk38YW.png" fan="" info:"";
 
-----------------------------------------2222222222222222222222222222222222222222222222222222222
+
+
+----------------------------------------2222222222222222222222222222222222222222222222222222222--------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 pelis:"` Sala 2" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/NUWLo3g.png" fan="https://i.imgur.com/ytZAGce.jpg" info:"-Attraction, -Descontroladas, -El circulo, -En lucha incierta, Goat, -Kong la isla calavera, -La puerta de al lado,- Noche de venganza, -Origen, -Passengers, -Rumbo a lo desconocido";
 
 sal2:"Attraction" src="http://kbagi.com/emilezoll/sala3-586120/list,1,1" img="https://i.imgur.com/wd284wx.png" fan="" info:"";
@@ -177,52 +178,11 @@ sal6:"Mío O De Nadie" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" im
 sal6:"Your name" src="http://kbagi.com/emilezoll/sala7-590579/list,1,1" img="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg" fan="https://cdn.theatlantic.com/assets/media/img/mt/2017/04/your_name-1/lead_960.jpg?1491850156" info:" Kimi no Na wa. es una película de animación japonesa estrenada en 2016; escrita y dirigida por Makoto Shinkai, animada por CoMix Wave Films y distribuida por Tōhō.​ Wikipedia Fecha de estreno: 2016 (República Popular China) Director: Makoto Shinkai"; ,list,1,1
 
 
--------------------------------- 7777777777777777777777777777777777777777777777777777
 
-
-
-pelis:"` Sala 7" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/4qSIT1m.png" fan="https://i.imgur.com/FjVVRhc.jpg" info:"- Alien Covenant, - El ciudadano ilustre, - Identidades opuestas, -Irina Palm, - Logan, - Mujeres del siglo XX, - Mulholland Drive, - Starship Troopers Traitor of Mars, ";
-
-
-sal7:"Alien Covenant" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/HSm8zb2.png" fan="" info:"";
-sal7:"El ciudadano ilustre" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/hIOP6Gd.png" fan="" info:"";
-sal7:"Identidades opuestas" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/PL4Plai.png" fan="" info:"";
-sal7:"Irina Palm" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/dyEZDiU.png" fan="" info:"";
-sal7:"Logan" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/oC5THy1.png" fan="" info:"";
-
-sal7:"Mujeres del siglo XX" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/YWq17nF.png" fan="" info:"";
-
-sal7:"Mulholland Drive" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/Mk8R9LT.png" fan="" info:"";
-sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="" info:"";
-
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-
-sal7:"" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="" fan="" info:"";
-
+------------------------------------------------------------------------
 
 de aqui a la eternidad		https://i.imgur.com/E61WUCG.png
 
 deadly voltage		https://i.imgur.com/L3xnKkV.png
 
 
---------------------------8888888888888888888888888888888888888888888888888888-----------------------------------
-
-pelis:"' Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/OYENFw8.png" fan="https://i.imgur.com/OYENFw8.png" info="-Adicto, -Cartels, -El Imperio De Las Sombras, -El Juego De Gerald, - El Otro Lado De La Esperanza, - La Decisión (En Nombre Del Amor), - Los Misteriosos Asesinatos De Limehouse, -Some Kind Of Hate, -The Confirmation, -The Human Race, -Una Extraña En Mi Vida, ";
-
-
-
-sal8:"Adicto" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Cartels" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Imperio De Las Sombras" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Juego De Gerald" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"El Otro Lado De La Esperanza" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-
-sal8:"La Decisión (En Nombre Del Amor)" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-
-sal8:"Los Misteriosos Asesinatos De Limehouse" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Some Kind Of Hate" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";
-sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="" fan="" info="";

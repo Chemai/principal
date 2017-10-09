@@ -34,11 +34,6 @@ sal7:"Nosotros En La Noche" src="http://kbagi.com/emilezoll/sala0-584393/list,1,
 sal7:"Starship Troopers Traitor of Mars" src="http://kbagi.com/emilezoll/sala0-584393/list,1,1" img="https://i.imgur.com/NTs39v0.png" fan="http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2017/09/starship-troopers-traitor-mars.jpg" info:"Johnny Rico acaba de ser degradado y enviado a una pequeña estación satélite en Marte mientras la Federación ataca el planeta de los monstruos. Cuando está entrenando a nuevos reclutas en la pequeña estación, los monstruos atacan por sorpresa, pero la flota de la Federación está demasiado lejos para ayudarles. Rico y su tropa tendrán que salvar el planeta y descubrir cómo los monstruos pudieron llegar hasta ahí. (FILMAFFINITY)";
 
 
-
-
-
-
-
 --------------------------8888888888888888888888888888888888888888888888888888-----------------------------------
 
 
@@ -59,6 +54,62 @@ sal8:"The Confirmation" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" i
 sal8:"The Human Race" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/twpD6Qd.jpg" fan="https://horrormoviesuncut.files.wordpress.com/2014/07/1389009764_the_human_race-oo.jpg" info:"80 personas son secuestradas de sus vidas cotidianas y reaparecen en una ubicación no determinada. Estas personas son de todo tipo, jóvenes, viejos, atléticos e incluso discapacitados, con dinero y gente sin hogar. Las reglas no tardan en aparecer en su propia voz e idioma, y les instan a empezar una carrera de terror. Deben competir entre ellos o morir. (FILMAFFINITY)";
 sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="https://i.imgur.com/fRW80Cn.jpg" fan="https://image.tmdb.org/t/p/w1300_and_h730_bestv2/9eMPjXxbXlqloBASGPyb0QQPNy.jpg" info:"Tras regresar de unas vacaciones, Jade descubre que su padre, que acaba de enviudar, se ha casado con la enfermera que le ha estado cuidando. (FILMAFFINITY)";
 
+
+
+
+--------------------------9999999999999999999999999999999999999999999999-----------------------------------
+
+
+
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+
+
+El Portal Del Guerrero
+"Jack Bronson, un joven americano, es mágicamente transportado a la antigua China, donde tendrá que aprender a convertir sus habilidades con los videojuegos en las de un guerrero de Kung Fu, para rescatar a la bella princesa de las garras de un malvado rey bárbaro. (FILMAFFINITY)"
+
+La Leona
+"Hace un siglo, una niña nació con todo el cuerpo cubierto por un fino vello, incluida su cara. Este fenómeno afectará a su vida y a la pequeña comunidad en la que vive. (FILMAFFINITY)"
+
+La Ley Del Mas Fuerte
+"Russell Baze (Christian Bale) y su hermano menor Rodney (Casey Affleck) viven en el Rust Belt, una zona desindustrializada que registra el índice de paro más alto de los Estados Unidos. Russell trabaja en una acería a punto de cerrar, mientras que Rodney acaba de regresar de la guerra de Iraq. Ambos sueñan con marcharse para encontrar una vida mejor. Sin embargo, un cruel giro del destino hace que Russell ingrese en prisión y que su hermano se una a una violenta banda criminal. (FILMAFFINITY)"
+
+La Promesa
+"Años 20, durante los últimos días del Imperio Otomano. Michael (Oscar Isaac), un brillante estudiante de medicina, y Chris (Christian Bale), un prestigioso periodista americano de la agencia de noticias AP, se enamoran de la misma mujer, la bella y sofisticada Ana (Charlotte Le Bon), en una zona del mundo que se derrumba. (FILMAFFINITY)"
+
+Una Policía En Apuros
+"Johanna Pasquali es una joven policía pero no es como las otras. Para los otros policías es simpática pero totalmente nula. Sin embargo, dotada de buenas habilidades, su torpeza hace de ella una amenaza para los delincuentes... y para la gente. Le asignan misiones sin importancia, pero ella se entrena sin descanso, en su tiempo libre, para hacer realidad su sueño de ser la primera mujer en formar parte del grupo de élite de RAID, los cuerpos especiales. (FILMAFFINITY)"
+
+Queen of Katwe
+"Biopic de Phiona Mutesi, una joven ugandesa prodigio del ajedrez. Con 11 años ganó el campeonato juvenil de su país. Poco después pudo salir por primera vez de Uganda para ir a un torneo en Sudán. Y llegó a competir en la Olimpiada Mundial de la disciplina. (FILMAFFINITY)"
+
+Toni Erdmann
+"Inès trabaja en una importante consultora alemana establecida en Bucarest. Su estresante vida está perfectamente organizada hasta que su extrovertido y bromista padre Winfried llega de improvisto y le pregunta ”¿eres feliz?”. Tras su incapacidad para responder, sufre un profundo cambio. Ese padre que a veces estorba y que la avergüenza un poco le va a ayudar a dar nuevamente sentido a su vida gracias a un personaje imaginario: el divertido Toni Erdmann… (FILMAFFINITY)"
+
+LA Wedding Planner
+"Mathias y Alexia son pareja desde hace años, y por primera vez, él la engaña con Juliette, una organizadora de bodas. Cuando Alexia descubre una tarjeta de visita de Juliettte en el bolsillo de Mathias, él pierde los nervios, tartamudea y ella se da cuenta enseguida de que hay algo sospechoso... (FILMAFFINITY)"
+
+Prevenge
+"Una lunática mujer embarazada de varios meses escucha la voz de su hijo no nato, que le da instrucciones asesinas. (FILMAFFINITY)"
+
+Señor dame paciencia
+"Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver, y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos. (FILMAFFINITY)"
+
+Viviendo con una extraña
+"Kaylene ha sufrido varios traumatismos a causa de un accidente de coche, por lo que permanece ingresada unos días. La enfermera que le cuida durante su ingreso se ofrece a continuar los cuidados en su domicilio. (FILMAFFINITY)"
+
+-------------------------------------------------------------------------
 
 
 
