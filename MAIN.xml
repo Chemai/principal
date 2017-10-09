@@ -24,7 +24,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page>http://ignorame</page></regex>
 <thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail><fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
-<info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]\n - Efectuar un Reset-Addon para su correcta instalación</info></item>
+<info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]
+Efectuar un Reset-Addon para su correcta instalación</info></item>
 
 
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
