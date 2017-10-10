@@ -56,53 +56,21 @@ sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list
 
 
 
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"El Portal Del Guerrero" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/vlucOM3.jpg" fan="https://i.ytimg.com/vi/15EllPxYDZE/maxresdefault.jpg" info:"Jack Bronson, un joven americano, es mágicamente transportado a la antigua China, donde tendrá que aprender a convertir sus habilidades con los videojuegos en las de un guerrero de Kung Fu, para rescatar a la bella princesa de las garras de un malvado rey bárbaro. (FILMAFFINITY)";
+sal9:"La Leona" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/iIkqUxS.jpg" fan="https://i.imgur.com/iIkqUxS.jpg" info:"Hace un siglo, una niña nació con todo el cuerpo cubierto por un fino vello, incluida su cara. Este fenómeno afectará a su vida y a la pequeña comunidad en la que vive. (FILMAFFINITY)";
+sal9:"La Ley Del Mas Fuerte" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/50Wbuxn.jpg" fan="http://www.indiewire.com/wp-content/uploads/2013/11/out-of-the-furnace-festival-circus.jpg?w=700" info:"Russell Baze (Christian Bale) y su hermano menor Rodney (Casey Affleck) viven en el Rust Belt, una zona desindustrializada que registra el índice de paro más alto de los Estados Unidos. Russell trabaja en una acería a punto de cerrar, mientras que Rodney acaba de regresar de la guerra de Iraq. Ambos sueñan con marcharse para encontrar una vida mejor. Sin embargo, un cruel giro del destino hace que Russell ingrese en prisión y que su hermano se una a una violenta banda criminal. (FILMAFFINITY)";
+sal9:"La Promesa" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/ZfXiPiu.jpg" fan="http://www.dosismedia.com/wp-content/uploads/2017/04/la-promesa-the-promise-filme-del-1.jpg" info:"Años 20, durante los últimos días del Imperio Otomano. Michael (Oscar Isaac), un brillante estudiante de medicina, y Chris (Christian Bale), un prestigioso periodista americano de la agencia de noticias AP, se enamoran de la misma mujer, la bella y sofisticada Ana (Charlotte Le Bon), en una zona del mundo que se derrumba. (FILMAFFINITY)";
 
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"LA Wedding Planner" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/uvULc19.jpg" fan="http://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/07/05/14992659369581.jpg" info:"Mathias y Alexia son pareja desde hace años, y por primera vez, él la engaña con Juliette, una organizadora de bodas. Cuando Alexia descubre una tarjeta de visita de Juliettte en el bolsillo de Mathias, él pierde los nervios, tartamudea y ella se da cuenta enseguida de que hay algo sospechoso... (FILMAFFINITY)";
+sal9:"Prevenge" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/hE9T9mv.jpg" fan="https://thevelvetonion.files.wordpress.com/2017/05/prevengesubway.jpg?w=940&h=529" info:"Una lunática mujer embarazada de varios meses escucha la voz de su hijo no nato, que le da instrucciones asesinas. (FILMAFFINITY)";
+sal9:"Queen of Katwe" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/KhGL3a1.jpg" fan="http://www.gacetacristiana.com.ar/wp-content/uploads/2016/09/queen_of_katwe_official_trailer_1.jpg" info:"Biopic de Phiona Mutesi, una joven ugandesa prodigio del ajedrez. Con 11 años ganó el campeonato juvenil de su país. Poco después pudo salir por primera vez de Uganda para ir a un torneo en Sudán. Y llegó a competir en la Olimpiada Mundial de la disciplina. (FILMAFFINITY)";
+sal9:"Señor dame paciencia" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/yTcRgjM.jpg" fan="http://www.elcorreo.com/RC/201706/15/media/cortadas/senor-paciencia2-kNSE-U30109318333967D-660x371@RC.jpg" info:"Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver, y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos. (FILMAFFINITY)";
 
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
-sal9:"" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info:"";
+sal9:"Toni Erdmann" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/S70XXZ3.jpg" fan="https://pixel.nymag.com/imgs/daily/vulture/2016/10/10/10-toni-erdmann.w1200.h630.jpg" info:"Inès trabaja en una importante consultora alemana establecida en Bucarest. Su estresante vida está perfectamente organizada hasta que su extrovertido y bromista padre Winfried llega de improvisto y le pregunta ”¿eres feliz?”. Tras su incapacidad para responder, sufre un profundo cambio. Ese padre que a veces estorba y que la avergüenza un poco le va a ayudar a dar nuevamente sentido a su vida gracias a un personaje imaginario: el divertido Toni Erdmann… (FILMAFFINITY)";
+sal9:"Una Policía En Apuros" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/Vn8BopM.jpg" fan="http://fr.web.img5.acsta.net/r_1280_720/pictures/16/12/19/15/34/575459.jpg" info:"Johanna Pasquali es una joven policía pero no es como las otras. Para los otros policías es simpática pero totalmente nula. Sin embargo, dotada de buenas habilidades, su torpeza hace de ella una amenaza para los delincuentes... y para la gente. Le asignan misiones sin importancia, pero ella se entrena sin descanso, en su tiempo libre, para hacer realidad su sueño de ser la primera mujer en formar parte del grupo de élite de RAID, los cuerpos especiales. (FILMAFFINITY)";
+sal9:"Viviendo con una extraña" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/sxLHda4.jpg" fan="http://image.tmdb.org/t/p/original/bxk82OPYCJp5n94EggWfEfCUhei.jpg" info:"Kaylene ha sufrido varios traumatismos a causa de un accidente de coche, por lo que permanece ingresada unos días. La enfermera que le cuida durante su ingreso se ofrece a continuar los cuidados en su domicilio. (FILMAFFINITY)";
 
 
-El Portal Del Guerrero
-"Jack Bronson, un joven americano, es mágicamente transportado a la antigua China, donde tendrá que aprender a convertir sus habilidades con los videojuegos en las de un guerrero de Kung Fu, para rescatar a la bella princesa de las garras de un malvado rey bárbaro. (FILMAFFINITY)"
-
-La Leona
-"Hace un siglo, una niña nació con todo el cuerpo cubierto por un fino vello, incluida su cara. Este fenómeno afectará a su vida y a la pequeña comunidad en la que vive. (FILMAFFINITY)"
-
-La Ley Del Mas Fuerte
-"Russell Baze (Christian Bale) y su hermano menor Rodney (Casey Affleck) viven en el Rust Belt, una zona desindustrializada que registra el índice de paro más alto de los Estados Unidos. Russell trabaja en una acería a punto de cerrar, mientras que Rodney acaba de regresar de la guerra de Iraq. Ambos sueñan con marcharse para encontrar una vida mejor. Sin embargo, un cruel giro del destino hace que Russell ingrese en prisión y que su hermano se una a una violenta banda criminal. (FILMAFFINITY)"
-
-La Promesa
-"Años 20, durante los últimos días del Imperio Otomano. Michael (Oscar Isaac), un brillante estudiante de medicina, y Chris (Christian Bale), un prestigioso periodista americano de la agencia de noticias AP, se enamoran de la misma mujer, la bella y sofisticada Ana (Charlotte Le Bon), en una zona del mundo que se derrumba. (FILMAFFINITY)"
-
-Una Policía En Apuros
-"Johanna Pasquali es una joven policía pero no es como las otras. Para los otros policías es simpática pero totalmente nula. Sin embargo, dotada de buenas habilidades, su torpeza hace de ella una amenaza para los delincuentes... y para la gente. Le asignan misiones sin importancia, pero ella se entrena sin descanso, en su tiempo libre, para hacer realidad su sueño de ser la primera mujer en formar parte del grupo de élite de RAID, los cuerpos especiales. (FILMAFFINITY)"
-
-Queen of Katwe
-"Biopic de Phiona Mutesi, una joven ugandesa prodigio del ajedrez. Con 11 años ganó el campeonato juvenil de su país. Poco después pudo salir por primera vez de Uganda para ir a un torneo en Sudán. Y llegó a competir en la Olimpiada Mundial de la disciplina. (FILMAFFINITY)"
-
-Toni Erdmann
-"Inès trabaja en una importante consultora alemana establecida en Bucarest. Su estresante vida está perfectamente organizada hasta que su extrovertido y bromista padre Winfried llega de improvisto y le pregunta ”¿eres feliz?”. Tras su incapacidad para responder, sufre un profundo cambio. Ese padre que a veces estorba y que la avergüenza un poco le va a ayudar a dar nuevamente sentido a su vida gracias a un personaje imaginario: el divertido Toni Erdmann… (FILMAFFINITY)"
-
-LA Wedding Planner
-"Mathias y Alexia son pareja desde hace años, y por primera vez, él la engaña con Juliette, una organizadora de bodas. Cuando Alexia descubre una tarjeta de visita de Juliettte en el bolsillo de Mathias, él pierde los nervios, tartamudea y ella se da cuenta enseguida de que hay algo sospechoso... (FILMAFFINITY)"
-
-Prevenge
-"Una lunática mujer embarazada de varios meses escucha la voz de su hijo no nato, que le da instrucciones asesinas. (FILMAFFINITY)"
-
-Señor dame paciencia
-"Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver, y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos. (FILMAFFINITY)"
-
-Viviendo con una extraña
-"Kaylene ha sufrido varios traumatismos a causa de un accidente de coche, por lo que permanece ingresada unos días. La enfermera que le cuida durante su ingreso se ofrece a continuar los cuidados en su domicilio. (FILMAFFINITY)"
 
 -------------------------------------------------------------------------
 
