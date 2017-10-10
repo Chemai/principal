@@ -24,8 +24,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page>http://ignorame</page></regex>
 <thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail><fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
-<info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]
-Efectuar un Reset-Addon para su correcta instalación</info></item>
+<info>[B][COLOR gold]L[/COLOR][/B][COLOR yellow] ON[/COLOR]</info></item>
 
 
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
@@ -64,14 +63,15 @@ Efectuar un Reset-Addon para su correcta instalación</info></item>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
 	</item>
-	
-	<item>		<title>[COLOR gold]·   [B]BAUL[/B][/COLOR]</title>
-		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<externallink>https://dl.dropbox.com/s/x93fedbix3ixvhq/BAUL.xml</externallink>
-		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
-		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
+
+	<item>		<title>[COLOR gold]·   [B]¡¡ ÑAM-ÑAM !![/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/L2mcv14.png</thumbnail>
+		<fanart>https://i.imgur.com/i1dm8yI.jpg</fanart>
+		<link>http://ignorame</link>
+		<jsonrpc>plugin://plugin.video.fogones</jsonrpc>
 		</item>
 
+	
 	
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
 		<thumbnail></thumbnail>
@@ -79,7 +79,6 @@ Efectuar un Reset-Addon para su correcta instalación</info></item>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink></externallink>
 	</item>
-
 	
 	<item>		<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
@@ -87,6 +86,20 @@ Efectuar un Reset-Addon para su correcta instalación</info></item>
 		<info>Sección exclusiva para mayores de 18 años</info>
 		<externallink>https://dl.dropbox.com/s/g0c6hs70lpvg6ax/zona_x.xml</externallink>
 	</item>
+
+	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
+	</item>
+
+	<item>		<title>[COLOR black]·   [B]BAUL[/B][/COLOR]</title>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/x93fedbix3ixvhq/BAUL.xml</externallink>
+		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
+		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
+		</item>
 
 	
 </items>	
