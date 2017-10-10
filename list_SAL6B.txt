@@ -53,7 +53,7 @@ sal8:"Una Extraña En Mi Vida" src="http://kbagi.com/emilezoll/sala8-593442/list
 
 
 --------------------------9999999999999999999999999999999999999999999999-----------------------------------
-pelis:"` Sala 9" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info="- El portal del Guerrero, - La leona, - La ley del más fuerte, - LA pormesa, - La Wedding planet, - Preenge, - Queen of Katwe, - Señor dame paciencia, - Toni Erdmann, - Una policía en apuros, - Viviendo con una extraña";
+pelis:"` Sala 9" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="" fan="" info="- El portal del Guerrero, - La leona, - La ley del más fuerte, - LA pormesa, - La Wedding planet, - Prevenge, - Queen of Katwe, - Señor dame paciencia, - Toni Erdmann, - Una policía en apuros, - Viviendo con una extraña";
 
 sal9:"El Portal Del Guerrero" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/vlucOM3.jpg" fan="https://i.ytimg.com/vi/15EllPxYDZE/maxresdefault.jpg" info:"Jack Bronson, un joven americano, es mágicamente transportado a la antigua China, donde tendrá que aprender a convertir sus habilidades con los videojuegos en las de un guerrero de Kung Fu, para rescatar a la bella princesa de las garras de un malvado rey bárbaro. (FILMAFFINITY)";
 sal9:"La Leona" src="http://kbagi.com/emilezoll/sala9-593443/list,1,1" img="https://i.imgur.com/iIkqUxS.jpg" fan="https://i.imgur.com/iIkqUxS.jpg" info:"Hace un siglo, una niña nació con todo el cuerpo cubierto por un fino vello, incluida su cara. Este fenómeno afectará a su vida y a la pequeña comunidad en la que vive. (FILMAFFINITY)";
@@ -69,6 +69,32 @@ sal9:"Viviendo con una extraña" src="http://kbagi.com/emilezoll/sala9-593443/li
 
 
 -------------------------------------------------------------------------
+
+
+
+salA:"Ira" src="" img="" fan="https://pics.filmaffinity.com/wrath_ira-209514029-large.jpg" info:"Ira es la historia de Iker Vélez, un periodista que decide cambiar el rumbo de su documental para grabar la preparación, diseño y ejecución de un asesinato. César, es el padre de un hijo asesinado que ha decidido aprender a matar para hacer su propia justicia. (FILMAFFINITY)";
+salA:"La hijastra" src="" img="" fan="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-hijastra-339301_SPA-12.jpg" info:"Jill trata de llevarse bien con la complicada hija adolescente de su marido, Casey, fruto de su anterior matrimonio. Cuando la madre de Jill muere misteriosamente, sospecha que Casey es la responsable. (FILMAFFINITY)";
+salA:"Shockwave: Countdown to Disaster" src="" img="" fan="https://images-na.ssl-images-amazon.com/images/M/MV5BMTFkMTYyMDYtNzQ0Mi00MDQyLTkxZTgtZjkyMzAzNzI1YjhjXkEyXkFqcGdeQXVyMTQ5NTQyNDI@._V1_SY1000_SX1500_AL_.jpg" info:"Cuando una serie de erupciones volcánicas empiezan a tener lugar, la geofísica Kate Ferris intenta convencer al Departamento de Defensa de que estos fenómenos no tiene un origen natural, sino que son resultado de algún tipo de armamento.";
+
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+salA:"" src="" img="" fan="" info:"";
+
+
+
+
+
+
+----------------------------------------------------
+
 
 
 
