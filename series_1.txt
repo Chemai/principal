@@ -15,7 +15,10 @@ mash:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
 wyp:"Wayward Pines I" src="http://kbagi.com/emilezoll/wywp-589148";
 wyp:"Wayward Pines II" src="http://kbagi.com/emilezoll/wywp2-589159";
 
-tbll:"The Blacklist t-1" src="http://kbagi.com/emilezoll/the-blacklist-t1-600419":
+
+tbll:"The Blacklist t-1" src="http://kbagi.com/emilezoll/the-blacklist-t1-600419";
+tbll:"The Blacklist t-2" src="http://kbagi.com/emilezoll/the-blacklist-t2-600420";
+tbll:"The Blacklist t-3" src="http://kbagi.com/emilezoll/the-blacklist-t3-600422";
 
 
 after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
