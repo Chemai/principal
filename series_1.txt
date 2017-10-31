@@ -15,6 +15,9 @@ mash:"M.A.S.H. Temp 3" src="http://kbagi.com/emilezoll/mash-3-578181";
 wyp:"Wayward Pines I" src="http://kbagi.com/emilezoll/wywp-589148";
 wyp:"Wayward Pines II" src="http://kbagi.com/emilezoll/wywp2-589159";
 
+tbll:"The Blacklist t-1" src="http://kbagi.com/emilezoll/the-blacklist-t1-600419":
+
+
 after:"Aftermath. " src="http://kbagi.com/juanitronic/aftermath-559824";
 
 visit:"V los visitantes" src="http://kbagi.com/juanitronic/v-los-visitantes-2009-570365";
@@ -103,4 +106,3 @@ pelis:"` Sala 8" src="http://kbagi.com/emilezoll/sala8-593442/list,1,1" img="htt
 
 pelis:"` Sala 9" src="" img="https://i.imgur.com/53GHt7j.png" fan="" info:"09";
 pelis:"` Sala 0" src="" img="https://i.imgur.com/etcIyMa.png" fan="" info:"10";
-
