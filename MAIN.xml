@@ -57,7 +57,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
 	</item>
-	<item>		<title>[COLOR black]·   [B]TUTORIALES[/B][/COLOR]</title>
+	<item>		<title>[COLOR black]·   [B][/B][/COLOR]</title>TUTORIALES
 		<thumbnail>https://i.imgur.com/eTqhMPM.png</thumbnail>
 		<fanart>https://i.imgur.com/9PmPAVG.jpg</fanart>
 		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
