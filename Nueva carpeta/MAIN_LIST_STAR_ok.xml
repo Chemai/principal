@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<SetViewMode>502</SetViewMode><!--508-->     <!-- ESTE ES EL BUENO-->
+<channels_info><title>[COLOR white]Addon Personal[/COLOR] [B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]</title>
+		<description>Para Kodi Media Center</description>
+		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
+		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
+		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
+		<genre>Video</genre>		<date>20-10-2017</date>
+		<credits>Chem@i</credits></channels_info>
+		
+<items>			
+			<item><title>[COLOR gold]· ATENCIÓN INFO[/COLOR]  -  [B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B]</title>
+<link>$doregex[text]</link>
+<regex><name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[COLOR gold][B]AVISO IMPORTANTE[/B][/COLOR]', 'Este Addon contiene enlaces a sitios de terceros disponibles gratuitamente en Internet.\n No se posee filiación de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.\n\n This Addon only contains links and embeds to channels from 3rd party sites which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.\n\n\n\n Para el correcto funcionamiento hacer un reset addon antes de iniciar. \n[COLOR gold]     -[B]1º[/B][/COLOR]: Menú emergente del addon, [COLOR gold]AJUSTES[/COLOR]\n[COLOR gold]     -[B]2º[/B][/COLOR]: Configuración general, click en [COLOR gold]POR DEFECTO[/COLOR] y seguidamente en [COLOR gold]OK[/COLOR]\n\n                          Enjoy !!!')
+]]></expres>
+<page>http://ignorame</page></regex>
+<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail><fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
+<info>[B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B]</info></item>
+
+	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
+	</item>
+	<item>		<title>[COLOR gold]·   [B]PELÍCULAS[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
+		<fanart>https://i.imgur.com/kG5vzkc.jpg</fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/ipjjlmmp5nqtr3t/PELCIULAS.xml</externallink>
+	</item>
+	<item>		<title>[COLOR gold]·   [B]SERIES TV[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/6kpgUGS.png</thumbnail>
+		<fanart>https://i.imgur.com/ke3DJP0.jpg</fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/p3mol7kg0vov8ji/SERIES.xml</externallink>
+	</item>
+	<item>		<title>[COLOR gold]·   [B]CON H de HUMOR[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/ivPJ1aE.png</thumbnail>
+		<fanart>https://i.imgur.com/wvUQH18.jpg</fanart>
+		<info>HUMOR con MAYÚSCULAS</info>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/b59yibjxlo66lb9/KBHumor.xml</externallink>
+	</item>
+	<item>		<title>[COLOR gold]·   [B]MUSIC DON'T STOP[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
+		<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/pqaawpyv9lsdh5n/MUSIC_DONT.xml</externallink>
+	</item>
+	<item>		<title>[COLOR gold]·   [B]TUTORIALES[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/eTqhMPM.png</thumbnail>
+		<fanart>https://i.imgur.com/iY8S2m3.jpg</fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/50lrn9gvbwywd6p/PILDORAS_INFORXML.xml</externallink>
+		</item>
+	<item>		<title>[COLOR gold]·   [B]¡¡ ÑAM-ÑAM !![/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/fxRwufH.png</thumbnail>
+		<fanart>https://i.imgur.com/52XzUiX.jpg</fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink>https://dl.dropbox.com/s/3vzskrg1cti99v5/FOGONES.xml</externallink>
+		</item>
+	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
+	</item>
+	<item>		<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
+		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
+		<fanart>https://i.imgur.com/4KTLZvZ.jpg</fanart>
+		<link>https://pastebin.com/</link><info>Sección exclusiva para mayores de 18 años</info>
+		<externallink>https://dl.dropbox.com/s/g0c6hs70lpvg6ax/zona_x.xml</externallink>
+	</item>
+	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
+	</item>
+	<item>		<title>[COLOR black]·   [B]TEST[/B][/COLOR]</title>
+		<link>ignorame</link><SetViewMode>502</SetViewMode>
+		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
+		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
+		<externallink>https://dl.dropbox.com/s/250p540ocpxlvkt/EN_obras.xml</externallink>
+	</item>	
+</items>	
+	
+	 

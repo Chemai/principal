@@ -1,274 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<SetViewMode>502</SetViewMode>
-<channels_info><title>[COLOR blue][I]Personal Addon[/I] [/COLOR]- [COLOR gold] [B]L[/B] [/COLOR][COLOR orange]ON[/COLOR]</title>
+<SetViewMode>502</SetViewMode><!--508-->                
+<channels_info><title>[COLOR white]Personal Addon[/COLOR] [B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]</title>
 		<description>Lista basica para Kodi Media Center</description>
 		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
 		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
 		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<genre>Video</genre>
-		<date>18-09-2017</date>
+		<genre>Video</genre>		<date>20-10-2017</date>
 		<credits>Chem@i</credits></channels_info>
+		
+<items>			
+			<item><title>[COLOR gold]· ATENCIÓN INFO[/COLOR]  -  [B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]</title>
+<link>$doregex[text]</link>
+<regex><name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[COLOR gold][B]AVISO IMPORTANTE[/B][/COLOR]', 'Este Addon contiene enlaces a sitios de terceros disponibles gratuitamente en Internet.\n No se posee filiación de ninguna manera con los canales difundidos ni somos responsables de su contenido. Todo el contenido es copyright de sus respectivos propietarios.\n\n This Addon only contains links and embeds to channels from 3rd party sites which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.\n\n\n\n Para el correcto funcionamiento hacer un reset addon antes de iniciar. \n[COLOR gold]     -[B]1º[/B][/COLOR]: Menú emergente del addon, [COLOR gold]AJUSTES[/COLOR]\n[COLOR gold]     -[B]2º[/B][/COLOR]: Configuración general, click en [COLOR gold]POR DEFECTO[/COLOR] y seguidamente en [COLOR gold]OK[/COLOR]\n\n                          Enjoy !!!')
+]]></expres>
+<page>http://ignorame</page></regex>
+<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail><fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
+<info>[B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]</info></item>
 
-<channels>
-
-<channel><name>[COLOR gold][B]CINE[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/fWJLMXJ.png</thumbnail>
-<fanart>http://i.imgur.com/2QevvWY.jpg</fanart>
-<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-<externallink>https</externallink>
-<items>	
-
-	<item>	<title>[B][COLOR gold]CINE CLASICO[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/fqa49ty468df2zk/CINE_clasic.xml</externallink>
-		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<thumbnail>https://i.imgur.com/TKyZbiH.png</thumbnail>
-		<fanart>https://i.imgur.com/Eoz0MQF.jpg</fanart>		</item>		
-
-	<item>	<title>[B][COLOR gold]CINE CLUB KB[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/dpaa1wj884zhh9b/KBpeliculas.xml</externallink>
-		<link>http://ignorame</link><SetViewMode>515</SetViewMode>
-		<thumbnail>https://i.imgur.com/gZn2to4.png</thumbnail>
-		<fanart>https://i.imgur.com/Wx5GDGQ.jpg</fanart>		</item>		
-
-	<item>	<title>[B][COLOR gold]FILMOTECA[/COLOR][/B]</title>
-<link>$doregex[makelist2]</link><SetViewMode>515</SetViewMode>
-<regex>  <name>makelist2</name>
-  <listrepeat><![CDATA[
-		<title>[B][COLOR gold][makelist2.param1][/COLOR][/B]</title><SetViewMode>515</SetViewMode>
-		<link>$doregex[makelist]</link>
-		<thumbnail></thumbnail><fanart></fanart><info></info>				
-		]]></listrepeat>
-<expres>pelis:"(.*?)" src="(.*?)"</expres>
-<page>https://raw.githubusercontent.com/Chemai/principal/master/series_1.txt</page>
-<cookieJar></cookieJar></regex>
-<regex>  <name>makelist</name>
-  <listrepeat><![CDATA[
-		<title>[COLOR orange][makelist.param2] [/COLOR]</title><SetViewMode>515</SetViewMode>
-		<link>$doregex[getUrl]</link>
+	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
 		<thumbnail></thumbnail>
-		<fanart></fanart><info></info>
-		]]></listrepeat>
-<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>[makelist2.param2]/list,1,15</page>
-<cookieJar></cookieJar></regex>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests ,json
-def GetLSProData(page_data,Cookie_Jar,m):
- ref = 'http://kbagi.com/' 
- url='http://kbagi.com[makelist.param1]'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
-			'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
- session = requests.Session()
- r = session.get(url, headers=headers)
- rv1 = r.cookies
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
- nrj=json.loads(nr)
- nr = nrj['Content']
- r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
- data_a ={'__RequestVerificationToken': r2 , 'Username': 'amistad' , 'Password' : 'asegurada'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
- print nr1.headers['Set-Cookie']
- rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
- rv1['.ASPXAUTH_v2'] = rasp
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
- r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
- print r3
- return r3
-]]></expres>
-<page></page>
-<cookieJar></cookieJar></regex>
-<thumbnail>https://i.imgur.com/d9cYceu.png</thumbnail><fanart>https://i.imgur.com/H2bnMPz.jpg</fanart>
-<info></info></item>
-
-	
-<item><title>[B][COLOR gold]ÚLTIMOS ESTRENOS[/COLOR][/B]</title>	
-			<externallink>https://dl.dropbox.com/s/sj8r3bgrom0wjqu/KBpeliculasHD.xml</externallink>
-		<link>http://ignorame</link><SetViewMode>515</SetViewMode>
-		<thumbnail>https://i.imgur.com/f5Q9xfw.png</thumbnail>
-		<fanart>https://i.imgur.com/H2bnMPz.jpg</fanart>		</item>		
-
-
-
-</items></channel>
-
-<channel><name>[COLOR gold][B]SERIES[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/6kpgUGS.png</thumbnail>
-<fanart>http://i.imgur.com/VHrivyb.jpg</fanart>
-<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-<externallink>https</externallink>
-<items>
-
-	<item>	<title>[B][COLOR gold]SELECCIÓN[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/rp7rpfgpzspjkbd/Series_selec.xml</externallink>
-		<link>http://ignorame</link>				
-		<thumbnail>https://i.imgur.com/VPreGPs.png</thumbnail>
-		<fanart>http://i.imgur.com/Wp4g8NC.jpg</fanart><SetViewMode>502</SetViewMode>
-		<genre>Retro</genre>	<date>21-07-2017</date>
-		<info>Colección de series de TV alojadas en servidores online</info></item>
-		
-	<item>	<title>[B][COLOR gold]SERIES CLÁSICAS[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/6fo1zpi3db3dnc7/Series_clasicas.xml</externallink>
-		<link>http://ignorame</link>			
-		<thumbnail>https://i.imgur.com/NwBx10R.png</thumbnail>
-		<fanart>http://i.imgur.com/Z4Tcyy7.jpg</fanart><SetViewMode>502</SetViewMode>
-		<genre>Genérico</genre><date>21-07-2017</date>
-		<info>Colección de series de TV</info></item>
-	
-	<item>	<title>[B][COLOR gold]SERIES KB[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/a80dcra75upan8d/KBSeries.xml</externallink>
-		<link>http://ignorame</link>
-		<thumbnail>https://i.imgur.com/sVohWuh.png</thumbnail><SetViewMode>502</SetViewMode>
-		<fanart>https://i.imgur.com/H6o5b7S.jpg</fanart><info>Colección de series</info></item>	
-
-	<item>	<title>[B][COLOR gold]HUMOR[/COLOR][/B]</title>
-		<externallink>https://dl.dropbox.com/s/b59yibjxlo66lb9/KBHumor.xml</externallink>
-		<link>http://ignorame</link>			
-		<thumbnail>https://i.imgur.com/ivPJ1aE.png</thumbnail><SetViewMode>502</SetViewMode>
-		<fanart>http://eskipaper.com/images/humor-wallpaper-7.jpg</fanart>
-		<info>HUMOR con MAYÚSCULAS</info></item>	
-		
-
-</items></channel>
-
-<channel><name>[COLOR gold][B]MUSIC DON'T STOP[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/k46Xz9a.png</thumbnail>
-<fanart>https://i.imgur.com/h9itNnb.jpg</fanart>
-<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-<externallink>https</externallink>
-
-<items>
-
-<item><title>[B][COLOR gold]PELÍCULAS MUSICALES[/COLOR][/B]</title>
-		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<thumbnail>https://i.imgur.com/IuRW0mJ.png</thumbnail>
-		<fanart>https://i.imgur.com/gYFS6bF.jpg</fanart>
-		<externallink>https://dl.dropbox.com/s/peavgsisuwounha/films%20musicales.xml</externallink>
-		<info>Películas musicales</info></item>	
-	
-	
-<item><title>[B][COLOR gold]VIDEOS MUSICALES[/COLOR][/B]</title>
-		<link>http://ignorame</link><SetViewMode>502</SetViewMode>
-		<thumbnail>https://i.imgur.com/T5iq9ew.png</thumbnail>
-		<fanart>https://i.imgur.com/8oHo1Qd.jpg</fanart>
-		<externallink>https://dl.dropbox.com/s/kocl4a16lxwidef/Videos.xml</externallink>
-		<info>Películas musicales</info></item>	
-	
-
-</items></channel>
-
-<channel><name>[COLOR gold][B]ZONA X[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart><link>http://ignorame</link>
-<info>Sección exclusiva para mayores de 18 años</info>
-
-
-
-
-<item><title>[COLOR red][B]ZONA X[/B][/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>  <name>makelist2</name>
-  <listrepeat><![CDATA[
-		<title>[COLOR orange] [makelist2.param1] [/COLOR]</title>
-		<link>$doregex[makelist]</link>
+		<fanart></fanart>
+		<link>https://pastebin.com/</link><SetViewMode>502</SetViewMode>
+		<externallink></externallink>
+	</item>
+	<!--item>	<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-		<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart>
-		]]></listrepeat>
-<expres>erotic:"(.*?)" src="(.*?)"</expres>
-<page>https://raw.githubusercontent.com/Chemai/principal/master/series_1.txt</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>  <name>makelist</name>
-  <listrepeat><![CDATA[
-		<title>[COLOR orange][makelist.param2][/COLOR]</title>
-		<link>$doregex[getUrl]</link>
-		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-		<fanart>https://i.imgur.com/qS11iVg.jpg</fanart>
-		]]></listrepeat>
-<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>[makelist2.param2]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests ,json
-def GetLSProData(page_data,Cookie_Jar,m):
- ref = 'http://kbagi.com/'
- url='http://kbagi.com[makelist.param1]'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
-			'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
- session = requests.Session()
- r = session.get(url, headers=headers)
- rv1 = r.cookies
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
- nrj=json.loads(nr)
- nr = nrj['Content']
- r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
- data_a ={'__RequestVerificationToken': r2 , 'Username': 'emilezoll' , 'Password' : '12345678ABC'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
- print nr1.headers['Set-Cookie']
- rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
- rv1['.ASPXAUTH_v2'] = rasp
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
- r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
- print r3
- return r3
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart><info>Sección exclusiva para mayores de 18 años</info>	</item>
-
-
-
-<item><title>[COLOR red][B]SERIES DKM[/B][/COLOR]</title>
-	<link>$doregex[makelist]</link>
-	<regex><name>makelist</name>
-		<listrepeat><![CDATA[
-        <title>[COLOR orange][makelist.param3][/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-     		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-			<fanart>http://i.imgur.com/6AVZvxX.jpg</fanart>
-			]]></listrepeat>
-		<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-		<page>http://diskokosmiko.mx/trivianita/xxx-jessica-jaymes-hd-71198/list,1,6</page>
-		<cookieJar></cookieJar>
-	</regex>
-	<regex>
-		<name>getUrl</name>
-		<expres>DownloadUrl":"([^"]+)</expres>
-		<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-		<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-		<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-		<connection>keep-alive</connection>
-		<accept>*/*</accept>
-		<X-Req>XMLHttpRequest</X-Req>
-		<cookieJar></cookieJar>
-	</regex>
-	<regex>
-		<name>tok</name>
-		<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)</expres>
-		<page>http://diskokosmiko.mx/[makelist.param2]</page>
-		<referer>http://diskokosmiko.mx/trivianita/xxx-jessica-jaymes-hd-71198/list,1,6</referer>
-		<connection>keep-alive</connection>
-		<cookieJar></cookieJar>
-	</regex>
-		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
-		<fanart>https://i.imgur.com/qS11iVg.jpg</fanart>
-		<info>Sección exclusiva para mayores de 18 años</info></item>
-
-
-
-
-
-</channel>
-</channels>
+		<fanart>https://i.imgur.com/4KTLZvZ.jpg</fanart>
+		<link>https://pastebin.com/</link><info>Sección exclusiva para mayores de 18 años</info>
+		<externallink>https://dl.dropbox.com/s/g0c6hs70lpvg6ax/zona_x.xml</externallink>
+	</item-->
+	<item>		<title>[COLOR black]·   [B]TEST[/B][/COLOR]</title>
+		<link>ignorame</link><SetViewMode>502</SetViewMode>
+		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
+		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
+		<externallink>https://dl.dropbox.com/s/250p540ocpxlvkt/EN_obras.xml</externallink>
+	</item>	
+</items>
