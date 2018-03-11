@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<SetViewMode>500</SetViewMode><!--508-->                
+<SetViewMode>508</SetViewMode><!--508-->                
 <channels_info><title>[COLOR white]Personal Addon[/COLOR] [B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]</title>
 		<description>Lista basica para Kodi Media Center</description>
 		<thumbnail>https://i.imgur.com/PZV1gkF.png</thumbnail>
 		<fanart>https://i.imgur.com/AmjGXdE.jpg</fanart>
-		<link>http://ignorame</link><SetViewMode>500</SetViewMode>
+		<link>http://ignorame</link><SetViewMode>508</SetViewMode>
 		<genre>Video</genre>		<date>20-10-2017</date>
 		<credits>Chem@i</credits></channels_info>
 		
@@ -27,17 +27,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	<item>		<title>[COLOR gold]  [B][/B][/COLOR]</title>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
-		<link>https://pastebin.com/</link><SetViewMode>500</SetViewMode>
+		<link>https://pastebin.com/</link><SetViewMode>508</SetViewMode>
 		<externallink></externallink>
 	</item>
-	<!--item>		<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
+	<item>		<title>[COLOR red]·   [B]ZONA X[/B][/COLOR]</title>
 		<thumbnail>https://i.imgur.com/SYQg6Aw.png</thumbnail>
 		<fanart>https://i.imgur.com/4KTLZvZ.jpg</fanart>
-		<link>https://pastebin.com/</link><info>Sección exclusiva para mayores de 18 años</info>
+		<link>https://pastebin.com/</link><info>Sección exclusiva para mayores de 18 años</info><SetViewMode>508</SetViewMode>
 		<externallink>https://dl.dropbox.com/s/g0c6hs70lpvg6ax/zona_x.xml</externallink>
-	</item-->
+	</item>
 	<item>		<title>[COLOR black]·   [B]TEST[/B][/COLOR]</title>
-		<link>ignorame</link><SetViewMode>500</SetViewMode>
+		<link>ignorame</link><SetViewMode>508</SetViewMode>
 		<thumbnail>http://simswiki.info/images/f/f8/Under_construction.png</thumbnail>
 		<fanart>https://i.imgur.com/2ioSTTL.jpg</fanart>
 		<externallink>https://dl.dropbox.com/s/250p540ocpxlvkt/EN_obras.xml</externallink>
